@@ -1,8 +1,5 @@
+Introduction
 Pourquoi la France doit quitter le Mali
-
-
-
-
 
 Janvier 2013 : l’armée française intervient au Mali. C’est officiellement sa plus grosse opération militaire à l’étranger depuis la guerre d’Algérie. Je ne suis pas le seul à être surpris. Un mois auparavant, le président François Hollande avait annoncé que la France n’enverrait pas de soldats au Mali. À l’époque, l’objectif était seulement d’appuyer une éventuelle opération de paix des Nations unies pour rétablir l’ordre à Bamako, où des mutins avaient pris le pouvoir, avant d’essayer de repartir à la conquête des territoires du Nord tombés dans l’escarcelle de groupes djihadistes.
 
@@ -40,53 +37,25 @@ Ce livre, on le voit, se focalise donc sur l’engagement militaire de la France
 
 À sa manière, le cas malien illustre en effet des problématiques beaucoup plus générales sur l’ensemble de la zone. Réciproquement, les modalités de la réponse d’autres pays africains au défi djihadiste nous aident à mieux comprendre les difficultés de l’armée française dans la région aujourd’hui. Les problématiques se recoupent souvent. Deux des quatre pays membres de la coalition qui lutte contre Boko Haram, le Niger et le Tchad, combattent ainsi aux côtés de l’armée nigériane tout en faisant partie de la force dite du « G5 Sahel » qui est censée prendre le relais de la France au Mali.
 
-
-
-
-
 UN PARI INTENABLE
-
-
-
-
 
 Chapitre I
 
-
 Mission impossible
 
-
-
-
-
 Sénégal, Dakar, fin 2018
-
 
 Je suis invité au forum international sur la paix et la sécurité en Afrique. Organisé depuis 2014 à l’initiative du ministre de la Défense puis des Affaires étrangères Jean-Yves Le Drian, il se tient traditionnellement à Dakar.
 
 Pour la cinquième édition du forum, nous sommes conduits en banlieue dans les locaux flambant neufs du centre international de conférence Abdou Diouf. Comme d’habitude dans ce genre d’événement, c’est le festival off qui est intéressant. Chargé de l’Afrique à la Fédération internationale des Droits de l’Homme, Florent Geel est le premier à me parler de la « caravane de la mort » de l’armée malienne dans la région du Macina. Bien que le rapport ne soit pas encore sorti, il me donne un aperçu de la situation en évoquant le massacre de Nantaka et Kobaka. Le 13 juin 2018, des villageois de ces localités du centre du Mali ont entendu des tirs. Après avoir attendu le départ de l’armée, ils se sont rendus sur place et y ont découvert trois fosses communes contenant un total de 25 corps, un bilan confirmé par une source onusienne. Les victimes étaient notamment des Peuls qui, arrêtés peu auparavant, avaient été froidement exécutés par des soldats venus de la caserne voisine de Sévaré. Les militaires maliens avaient en effet promis de tuer 20 hommes si l’un d’entre eux était attaqué.
 
-
-
-
-
 Nigeria, Maiduguri, mi-2016
-
 
 La responsable d’une association locale m’a organisé un rendez-vous discret avec un habitant de Njimini, un village situé près de la frontière entre le Nigeria et le Cameroun. Yaya Ibrahim (le nom et le prénom ont été modifiés) s’effondre en pleurs lorsqu’il commence à me parler. J’en suis très gêné et je lui propose d’annuler l’entretien. Mais il insiste : il veut que je connaisse son histoire. Sa famille a été massacrée par l’armée camerounaise lors d’une action de représailles à la suite d’une embuscade de Boko Haram à 4 heures du matin le 11 février 2016 à Kerawa. Il y avait eu des précédents. Le 26 janvier 2016, déjà, les militaires de l’Opération Arrow IV avaient subi des pertes à Askashiya, non loin de là. Selon Yaya Ibrahim, ils avaient alors tué 81 villageois accusés de collaborer avec les rebelles parce que, pris entre deux feux, ils n’avaient pas prévenu l’armée camerounaise de la présence des djihadistes. Deux semaines plus tard, il n’a pas fallu deux heures pour que les militaires de l’Opération Arrow V se vengent sur les habitants de Njimini. Lorsqu’il est revenu sur les lieux, Yaya Ibrahim dit avoir compté 130 cadavres, dont 60 femmes et enfants. Le bilan officiel mentionna 162 « terroristes » tués. Ce massacre-là n’a jamais fait l’objet d’enquêtes de la part des organisations de défense des droits de l’homme.
 
-
-
-
-
 Kenya, Nairobi, fin 2013
 
-
 J’ai autrefois vécu dans la capitale kenyane et je suis sous le choc quand j’apprends qu’un commando de Chebab venus de Somalie s’est emparé du centre commercial de Westgate. Sur place, l’émotion de la population est d’autant plus forte que l’intervention des forces de sécurité tourne assez vite au cauchemar. Bien que les Chebab aient attaqué une banlieue chic de la capitale, militaires et policiers kenyans mettent près de quatre heures à arriver sur les lieux. Dans la confusion qui règne à l’intérieur du centre commercial, ils commencent par s’entre-tuer. Leurs « tirs amis » (ou friendly fire en anglais) feront un mort dans les rangs de la police. Entre-temps, les assaillants ont déjà eu le temps de tuer plus de 67 personnes. Mais l’affaire ne s’arrête pas là. Alors que le commando, composé de seulement quatre djihadistes, est finalement neutralisé en fin de soirée, le 23 septembre 2013, les forces de sécurité kenyanes vont faire durer leur intervention pendant trois jours afin d’avoir tout le temps de piller les boutiques de Westgate. Comme pour effacer les traces de leurs méfaits, elles bombarderont ensuite le centre commercial, laissé en ruines après que les caméras de surveillance ont pu filmer la scène1.
-
-
-
-
 
 Du Mali à la Somalie, on pourrait multiplier les exemples d’abus perpétrés par les forces chargées de combattre les groupes qualifiés de terroristes. Ces « débordements » sont parfois dénoncés par les organisations de défense des droits de l’homme, ce qui leur vaut d’être de temps en temps relatés par les médias. Mais d’autres passent complètement inaperçus, sachant qu’il est toujours difficile de trouver des informations fiables dans les zones de conflits armés. Bien souvent, on ne sait tout simplement pas ce qui se passe dans les campagnes. Dans le cas des régions rurales du Macina, par exemple, les exactions commises par l’armée malienne n’ont en fait été rapportées qu’à partir du moment où les populations locales ont fui vers Bamako et ont pu témoigner de leurs tourments après avoir été prises en charge par la Croix-Rouge internationale et les agences des Nations unies.
 
@@ -104,12 +73,7 @@ En privé, des officiels nigérians rencontrés au cours de mes pérégrinations
 
 Dans tous les cas, l’identification du statut des victimes n’a pas toujours permis d’établir les responsabilités des uns et des autres. Par exemple, les forces de sécurité nigérianes admettent très rarement avoir tué des civils. Elles prétendent plutôt avoir « neutralisé » des « terroristes ». Dans le même ordre d’idées, les civils arrêtés au cours d’une rafle et décédés en cours de détention sont d’emblée considérés comme des insurgés alors qu’ils ne bénéficient pas d’un statut de prisonniers de guerre et qu’ils n’ont jamais été jugés, au mépris du principe de présomption d’innocence. Pour se dédouaner de ses responsabilités, l’armée a ainsi pris l’habitude de faire signer aux familles qui voulaient récupérer le corps de leurs enfants un certificat attestant que leurs proches étaient bien des fidèles de la secte djihadiste. Autre source de biais dans l’identification du statut des victimes, les forces de sécurité ont délibérément minimisé le nombre de morts dans leurs rangs et ont au contraire insisté sur le nombre de civils tués par Boko Haram.
 
-
-
-
-
 Une sanglante disproportion
-
 
 Le Mali fait l’objet de distorsions similaires. La différence avec le Nigeria est qu’il n’existe pas de base de données pour en savoir plus. Dans le nord du Mali, l’armée française mène une « guerre sans images », à l’abri du regard indiscret de journalistes indépendants et par trop inquisiteurs. Les chiffres publiés par le ministère de la Défense à Paris, eux, sont bien trop parcellaires et lacunaires pour qu’on puisse en tirer la moindre conclusion. En effet, ils se focalisent uniquement sur les affrontements entre militaires français et groupes combattants8. Mais le bilan serait différent si l’on incluait les casques bleus onusiens, les troupes alliées africaines, l’armée malienne et ses supplétifs miliciens. En privé, des spécialistes de la sécurité confient que le Mali constitue peut-être un des rares cas de conflits asymétriques où les insurgés tuent davantage de militaires que les forces censées les combattre ne parviennent à éliminer de « terroristes ».
 
@@ -121,10 +85,6 @@ Comment pourrait-il en être autrement en Afrique et, plus particulièrement, au
 
 Là encore, la disproportion fut flagrante, cette fois sans intervention massive de l’armée. Officiellement, l’émeute fit 450 morts dont 15 policiers13. En réalité, le bilan fut vraisemblablement plus lourd si l’on considère les suites du conflit, peut-être jusqu’à 3 000 personnes. En effet, beaucoup de suspects décédèrent en prison sans jamais être jugés. Sur 200 personnes arrêtées lors d’une rafle de la police à Maiduguri le 26 octobre 1982, par exemple, 32 moururent d’étouffement au bout de deux jours, du fait de leur entassement dans une cellule minuscule. Faute de nourriture, des cas de cannibalisme furent ensuite recensés dans les prisons où étaient enfermés les suspects.
 
-
-
-
-
 La répression coloniale des révoltes djihadistes d’antan : une vieille histoire
 
 Le colonisateur a durement réprimé les djihads d’autrefois. Traumatisés par leur défaite face aux combattants du Mahdi (« Guide religieux ») à Khartoum en 1885, les Britanniques furent impitoyables au Soudan, n’hésitant pas à massacrer des civils ou à achever des prisonniers sans défense. Dans les années qui suivirent leur reconquête du territoire éclatèrent d’innombrables révoltes qui se réclamaient plus ou moins du mahdisme et, à chaque fois, on releva davantage de morts dans les rangs des insurgés que dans ceux des troupes coloniales14.
@@ -133,22 +93,13 @@ Lors de la colonisation de la Libye ottomane, les Italiens commirent également 
 
 Les Français ne firent pas toujours mieux. Dans l’actuelle Guinée, ils exercèrent des représailles sanglantes et tuèrent quelque 400 villageois après avoir perdu 2 officiers et 11 soldats le 30 mars 1911 lors du soulèvement vite réprimé des fidèles d’un prophète autoproclamé, Tcherno Alliou, qui avait enflammé les esprits des musulmans peuls des massifs montagneux du Fouta-Djalon16. Au Mali, encore, ils arrêtèrent et déportèrent un ermite soufi et dissident de la confrérie Tidjaniyya, Ahmadou Hamallah, qui avait eu le tort de bouder l’autorité coloniale et de contester l’autorité des Blancs, à défaut de passer à la lutte armée. Ses deux fils furent fusillés le 11 novembre 1941 avec trente et un chefs maures. Quant à ses disciples, qui se concentraient dans la région de Nioro, ils furent raflés en masse et enfermés dans des sortes de camps de concentration, notamment à Yélimané près de Kidal en pays touareg. Parmi les quelque 800 détenus incarcérés, une centaine devaient mourir au bout de trois mois. Il n’en restait plus que 500 de vivants à la fin de l’année17. La répression fut d’autant plus dure que le colonisateur craignait des soulèvements au Sahel suite à l’humiliation de sa défaite face aux Allemands en France.
 
-
-
-
-
 En dépit de son gigantisme, le Nigeria ne constitue malheureusement pas une exception à cet égard. Malgré les processus de démocratisation initiés au sortir de la guerre froide, les abus des forces de l’ordre restent courants sur l’ensemble du continent, sans d’ailleurs se limiter à la répression des soulèvements qualifiés de djihadistes. La gestion des manifestations, en particulier, donne fréquemment lieu à des excès, comme on a pu l’observer au Soudan autrefois ou, plus récemment, dans les mois précédant la chute de la dictature islamiste du général Omar al Bashir en avril 201918. Trop souvent, les armées africaines continuent de tuer surtout des civils en étant engagées dans des opérations de police à l’intérieur de leurs frontières nationales.
 
 Les tentatives de bilan des violences qui déstabilisent la partie occidentale du Sahel en témoignent à leur manière. À en croire un décompte effectué sur la période 1997-2018, 11 % des interventions militaires du Sénégal, de la Mauritanie, du Mali, du Burkina Faso, du Niger et du Tchad ont directement ciblé des civils19. Une telle proportion est certes inférieure à la fréquence de déploiement de ces armées pour lutter contre des rébellions djihadistes qui ont retenu 23 % de leurs engagements pendant la période d’étude. Les interventions destinées à réprimer des émeutes ou des mutineries militaires, quant à elles, étaient quantité négligeable. Mais un pareil constat ne doit pas masquer le fait qu’à 54 %, les armées du Sénégal, de la Mauritanie, du Mali, du Burkina Faso, du Niger et du Tchad ont surtout combattu des milices « ethniques » ou des soulèvements à caractère communautaire en assumant le risque de tuer un grand nombre de civils.
 
 De ce point de vue, il convient de ne pas se fier aux conclusions hâtives qui, tirées de la base de données ACLED, laissent à penser qu’au Mali, les forces gouvernementales tueraient relativement peu. En réalité, les résultats sont faussés à partir du moment où les supplétifs miliciens sont arbitrairement rangés dans le camp des insurgés20. Pour dresser un bilan humain de la guerre contre le terrorisme au Sahel, il faudrait plutôt tenir compte de l’extraordinaire versatilité des allégeances des combattants. Au Mali, on n’hésite ainsi pas à recourir à des oxymores et on parle de « rebelles loyalistes » pour désigner les insurgés ralliés à Bamako, à l’instar des « sobels » de Sierra Leone au cours des années 1990, mélange toxique de soldiers et de rebels. Sur le terrain, la situation est des plus confuses et évoque un peu le cas de la Somalie où les milices claniques et, pour certaines, paragouvernementales tuent bien autant que les Chebab si l’on en croit des documents confidentiels des Nations unies en 201621.
 
-
-
-
-
 L’inanité de la militarisation de la lutte contre le terrorisme
-
 
 Dans un tel contexte, on voit à quel point le défi est insurmontable pour l’armée française au Sahel. L’objectif relève tout simplement de la mission impossible. En effet, il consiste à lutter contre des groupes dits terroristes en s’appuyant sur les forces corrompues et prédatrices d’alliés locaux dont les exactions nourrissent et exacerbent les hostilités. En principe, l’armée française est intervenue au Sahel pour ramener l’ordre et sauver des vies face à « l’abomination djihadiste ». Mais en pratique, elle s’est retrouvée à former et équiper des « forces d’insécurité » qui ont grandement contribué à déstabiliser la région, trop souvent en tuant davantage de civils que les terroristes.
 
@@ -160,12 +111,7 @@ Dans les autres États de la zone, les problèmes les plus criants touchent le M
 
 On retrouve des phénomènes un peu similaires au Burkina Faso, où l’armée a également commis des exactions contre les civils24. S’y ajoute une particularité : le gouvernement du président Roch Marc Christian Kaboré se méfie de son appareil sécuritaire depuis la chute en 2014 du régime de Blaise Compaoré, lui-même un ancien militaire. Pour éviter les risques de putsch, les autorités rechignent en conséquence à distribuer des armes aux hommes du rang. Lors de l’attaque par un commando djihadiste du Café Aziz Istanbul à Ouagadougou en août 2017, par exemple, la gendarmerie dut aller chercher des munitions en dehors de la ville avant de pouvoir intervenir sur les lieux. De même, les soldats déployés en brousse ne disposent que de deux cartouches chacun. De peur de tomber à court de munitions, ils hésitent donc à engager le combat avec les groupes djihadistes dans la province de Soum à la frontière nord du pays. À sa manière, le Burkina Faso évoque ainsi les travers de l’armée nigériane où les officiers supérieurs craignent bien autant les attaques de Boko Haram qu’une mutinerie de leurs hommes et la revente d’armes aux insurgés, entre autres parce que les soldes ne sont pas payées et que des détournements de fonds massifs ne permettent pas d’honorer les contrats d’achat d’armements passés par le gouvernement à Abuja.
 
-
-
-
-
 Les défis de guerres asymétriques
-
 
 Mais l’infaisabilité de l’intervention militaire de la France au Sahel ne se juge pas seulement à l’aune des alliances conclues avec des armées africaines corrompues et coupables de nombreuses exactions. Elle s’apprécie également dans les caractéristiques de guerres asymétriques contre des combattants qui sont qualifiés de terroristes et qui se cachent au milieu de la population. Ceux-ci savent parfaitement que leurs attaques sont susceptibles d’entraîner des représailles et des dégâts importants parmi les civils. Ils savent aussi que, sur un plan strictement militaire, ils n’ont aucune chance de gagner une victoire décisive contre des forces bien mieux armées qu’eux.
 
@@ -183,156 +129,23 @@ Les relations des uns et des autres avec les forces étatiques ont été pour le
 
 Dans un tel contexte, les djihadistes ont bien évidemment cherché à tirer parti des tensions en offrant leur protection aux victimes des miliciens. L’armée française, elle, s’est bien gardée d’intervenir. Depuis Paris, l’état-major a, sans doute à juste titre, estimé qu’il n’était pas en mesure de s’interposer entre des communautés pour régler des conflits de bétail et mener une guerre contre-insurrectionnelle. Ce faisant, il a tacitement admis les limites de l’engagement militaire de la France au Mali. De fait, la mission était impossible à achever, à moins d’étendre indéfiniment le mandat de l’armée à des fonctions policières et politiques. Le problème est qu’un tel constat aurait pu et dû être fait dès 2013.
 
-
-
-
-
-1. McConnell, Tristan [20 sept. 2015], « “Close Your Eyes and Pretend to Be Dead” : What really happened two years ago in the bloody attack on Nairobi’s Westgate Mall », Foreign Policy.
-
-
-
-2. Kaval, Allan, Rémy Ourdan & Hélène Sallon [27 déc. 2017], « De Mossoul à Rakka, les civils comptent leurs morts », Le Monde, p. 3.
-
-
-
-3. United Nations, World Bank (ed.), Pathways for Peace : Inclusive Approaches to Preventing Violent Conflict, Washington, DC, World Bank, 2018, p. 28.
-
-
-
-4. Pour en savoir plus sur la méthodologie de NigeriaWatch, les difficultés de recension des victimes de conflits armés et les standards internationaux en la matière, voir Pérouse de Montclos, Marc-Antoine, Elizabeth Minor & Samrat Sinha (dir.), Violence, statistics, and the politics of accounting for the dead, Dordrecht, Springer, 2016, 140 p.
-
 http://www.everycasualty.org/campaign/charter
 
 http://www.nigeriawatch.org/index.php?html=7
 
-
-
-5. Pérouse de Montclos, Marc-Antoine, “The killing fields of Nigerian security forces: any lessons learned?”, African Security vol. 11, no 2, 2018, pp. 110-26.
-
-
-
-6. Sur la période de juin 2011 à juin 2018, les chiffres du Nigeria Security Tracker du Council on Foreign Relations se contentaient quant à eux d’identifier 15 953 victimes civiles sans préciser si celles-ci avaient été tuées par les insurgés ou les forces de sécurité. Cf. Allen, Nathaniel, « Unusual Lessons from an Unusual War: Boko Haram and Modern Insurgency », Washington Quarterly vol. 40, no 4, 2017, p. 116 ; Campbell, John & Asch Harwood [2018], Boko Haram’s Deadly Impact, New York, Council on Foreign Relations, 12 p.
-
-
-
-7. Abulfathi, Khalifa Aliyu Ahmed (2016), The metamorphosis of Boko Haram: A local’s perspective, Maiduguri, polycop., 11 p.
-
-
-
-8. Les chiffres officiels font état de 15 soldats français et 600 djihadistes tués dans le cadre de l’Opération Barkhane entre 2015 et 2018. D’autres sources parlent quant à elles de l’élimination de plus de 600 insurgés et de la capture de 450 prisonniers au cours des trois premiers mois de l’opération Serval, période pendant laquelle les affrontements furent les plus intenses. Cf. Le Monde du 6 mai 2019, p. 2 ; Boeke, Sergei & Schuurman, Bart [2015], « “Operation ‘Serval’”: A Strategic Analysis of the French Intervention in Mali, 2013-2014 », Journal of Strategic Studies vol. 38, no 6, p. 801.
-
-
-
-9. À l’époque, les seules exceptions connues concernaient les luttes pour l’indépendance des Juifs en Palestine et des Grecs à Chypre. Encore convient-il de noter que ces statistiques ne prenaient pas en compte les morts de faim ou de malnutrition indirectement causées par les opérations militaires des puissances coloniales. Cf. French, David [2011], The British way in counter-insurgency, 1945-1967, Oxford, Oxford University Press, p. 133.
-
-
-
-10. Crawford, Neta [2013], Accountability for killing : moral responsibility for collateral damage in America's post-9/11 wars, Oxford, Oxford University Press, 486 p.
-
-
-
-11. Les chiffres d’Airwars montaient même jusqu’à 1 972 non-combattants tués par les forces antiterroristes pendant cette période. Cf. Kaval, Allan, Rémy Ourdan & Hélène Sallon [27 déc. 2017], « De Mossoul à Rakka, les civils comptent leurs morts », Le Monde p. 3.
-
-
-
-12. https://www.apnews.com/bbea7094fb954838a2fdc11278d65460
-
-
-
-13. La très grande majorité des victimes fut des civils ou des membres de la secte Maitatsine avec des pertes variant entre 116 morts selon les forces de l’ordre, 132 selon une commission d’enquête, 159 selon des sources hospitalières et 500 selon des récits recueillis sur place. Cf. Nicolas, Guy [oct. 1984], « Métamorphose de l’Islam nigérian, deuxième partie », Le Mois en Afrique nos 225-6, p. 137; El-Badaway, Hassan [1982], Government White Paper on the report of the Commission of Inquiry into the Religious Disturbances in Bulum-Kuttu area of Maiduguri between the 26th-29th October 1982, Maiduguri, Government Printer, p. 19 ; Isichei, Elizabeth [oct. 1987], « The Maitatsine Risings in Nigeria, 1980-85 : A Revolt of the Disinherited », Journal of Religion in Africa vol. 17, no 3, pp. 194-208.
-
-
-
-14. Ibrahim, Hassan Ahmed [1979], « Mahdist Risings against the Condominium Government in the Sudan, 1900-1927 », The International Journal of African Historical Studies vol. 12, no 3, pp. 440-471.
-
-
-
-15. Rainero, Romain [2018], « Le refus italien d’utiliser des troupes coloniales », in Buton, Philippe & Marc Michel (dir.), Combattants de l’Empire. Les Troupes coloniales dans la Grande Guerre, Paris, Vendémiaire, pp. 191-3.
-
-
-
-16. Sanneh, Lamin [1997], The crown and the turban: Muslims and West African pluralism, Boulder (Co.), Westview, pp. 74 ss.
-
-
-
-17. Hamès, Constant [2018], « La Tijâniyya “onze grains” de Shaykh Hamallah : les acteurs et les enjeux d’un conflit d’époque coloniale », in Moreau, Odile & Vermeren, Pierre (dir.), Politique et confréries au Maghreb et en Afrique de l'Ouest, Paris, Maisonneuve, Journal d’Histoire du Soufisme vol. 7, p. 79 ; Joly, Vincent [1993], « L'administration du Soudan français et les événements de Nioro-Assaba (août 1940) », in Bernus, Edmond, Pierre Boilley, Jean Clauzel & Jean-Louis Triaud (dir.), Nomades et commandants : Administration et sociétés nomades dans l’ancienne A.O.F., Paris, Karthala, p. 56.
-
-
-
-18. Les 8 et 9 juillet 1965, déjà, l’armée soudanaise avait massacré de nombreux civils dans les rues de Juba, la capitale du Sud : selon les sources, entre 430, 1 400 et 3 000 personnes furent tuées à cette occasion.
-
-
-
-19. Elischer, Sebastian [2019], “Contemporary Civil-Military Relations in the Sahel”, Paris, OECD, West African Papers 19, p. 23.
-
-
-
-20. Le Monde du 6 mai 2019, p. 2.
-
-
-
-21. Williams, Paul [2018], Fighting for Peace in Somalia: A History and Analysis of the African Union Mission (AMISOM), 2007-2017, Oxford, Oxford University Press, p. 316.
-
-
-
-22. Geel, Florent, Antonin Rabecq, Drissa Traoré & Rémi Carayol [2018], Dans le centre du Mali, les populations prises au piège du terrorisme et du contreterrorisme : Rapport d’enquête, Paris, FIDH, p. 78.
-
-
-
-23. Tull, Denis [March 2019], « Rebuilding Mali's army: the dissonant relationship between Mali and its international partners », International Affairs, vol. 95, no 2, pp. 405-422.
-
-
-
-24. Sur 190 meurtres recensés par Human Rights Watch dans la région du Sahel entre décembre 2017 et février 2019, par exemple, plus des deux tiers ont été perpétrés par les forces de sécurité et moins d’un tiers par les djihadistes. Cf. Le Cam, Morgane [13 mai 2018], « Au Burkina, les exactions des forces antiterroristes », Le Monde, p. 4. https://www.hrw.org/fr/news/2019/05/22/burkina-faso-respecter-les-droits-humains-lors-des-operations-antiterroristes
-
-
-
-25. Williams, Paul [2018], Fighting for Peace in Somalia: A History and Analysis of the African Union Mission (AMISOM), 2007-2017, Oxford, Oxford University Press, pp. 295, 340.
-
-
-
-26. Hills, Alice [2014], “Security Sector or Security Arena? The Evidence from Somalia”, International peacekeeping, vol. 21, no 2, pp. 165-80.
-
-
-
-27. ICG [2017], Nord du Burkina Faso : ce que cache le jihad, Brussels, International Crisis Group, 21 p.
-
-
-
-28. D’autres raisons expliquent aussi cette position. Légalement, d’abord, la Constitution algérienne interdit d’engager l’armée en dehors des frontières du pays. Connaissant ses relations difficiles avec l’ancien colonisateur, ensuite, le gouvernement n’a pas non plus caché son hostilité à l’installation de bases françaises au Sahel, sans parler de la présence militaire américaine à Agadez. De plus, les autorités craignaient qu’une offensive dans le nord du Mali ne leur renvoie les djihadistes qui, justement, avaient fui l’Algérie pour aller s’installer à Tombouctou.
-
-
-
-29. Geel, Florent, Antonin Rabecq, Drissa Traoré & Rémi Carayol [2018], Dans le centre du Mali, les populations prises au piège du terrorisme et du contreterrorisme : Rapport d’enquête, Paris, FIDH, pp. 50-2.
-
-
-
-
-
 Chapitre II
-
 
 De l’usage immodéré de la force
 
-
-
-
-
 Kenya, Nairobi, mi-1998
-
 
 Je suis dans un garage de la zone industrielle de Nairobi en train de faire réparer ma Mitsubishi, une vieille Pajero achetée d’occasion à une commerçante somalienne. Une très mauvaise affaire. Je me suis déjà ruiné en diverses réparations et le diagnostic du garagiste indien est sévère. Quand soudain on entend une formidable explosion, un bruit d’une intensité que je n’avais jamais connue, même en écoutant les orgues de Staline en train de pilonner Mogadiscio. Le souffle est tel que la vitrine du garage se fend et qu’une partie du toit se tord.
 
 On se demande ce qu’il se passe. S’agit-il de l’explosion d’un dépôt d’essence de la zone industrielle ? D’un coup d’État ? Nous ne savons pas encore qu’il s’agit du premier attentat d’al-Qaïda en Afrique, en l’occurrence contre l’ambassade américaine à quatre kilomètres de là.
 
-
-
-
-
 Maroc, Marrakech, mi-2018,
 
 vingt ans plus tard…
-
 
 J’ai été invité à une conférence intitulée : « après Daech ». La rencontre est organisée par une ONG émiratie appelée « Croyants sans frontières ». Tout un programme ! Je ne connais personne mais cela fait partie des surprises du métier de chercheur. Il m’est arrivé de me retrouver à présenter mes recherches dans un temple protestant à Paris ou dans la cathédrale d’Anvers, coincé entre l’archevêque d’Abuja et un émir enturbanné du Bauchi. On ne sait jamais d’avance qui on va rencontrer.
 
@@ -362,18 +175,9 @@ La question me brûle les lèvres. Le monde est vaste. Pourquoi frapper en Afriq
 
 La réponse de Nabil Naïm coule de source, si l’on peut dire : « Parce que c’était facile ! Le Kenya est un pays très corrompu. Depuis Port Soudan, il fallait transporter 10 tonnes d’explosifs. La TNT a été cachée dans un chargement de 400 tonnes de sucre. Pour passer la marchandise, les organisateurs de l’attentat ont simplement versé des bakchichs aux douaniers et aux militaires kenyans. C’est beaucoup plus facile qu’en Europe. Il y a moins de contrôles. »
 
-
-
-
-
 La conclusion est effarante. Si je résume bien, al-Qaïda a choisi de s’en prendre à l’ambassade américaine à Nairobi parce que l’administration kenyane est corrompue. Pour les groupes djihadistes, l’Afrique est en fait un terrain de jeu car l’État y est faible. Or c’est dans les situations de tensions et de vides politiques que les « terroristes » prospèrent. La leçon doit être retenue pour le Mali comme pour l’ensemble des pays sahéliens, y compris dans le nord du Nigeria où, le 26 août 2011, les hommes de Boko Haram ont réussi à attaquer les Nations unies jusque dans la capitale Abuja en soudoyant les forces de l’ordre pour franchir les barrages de police avec leurs explosifs.
 
-
-
-
-
 Des militaires gangrenés par la corruption
-
 
 La corruption n’est pas un vain mot quand on s’intéresse au fonctionnement des appareils sécuritaires de bien des États africains. Les armées, en particulier, sont touchées par toute une variété de problèmes qui affectent directement leur capacité à lutter contre les groupes djihadistes : contrebande et revente d’armes volées dans les arsenaux des casernes militaires ; collusion dans divers trafics avec des mouvements insurrectionnels ; détournement des soldes qui mine le moral des troupes et provoque des mutineries contre la hiérarchie ; surfacturation et non-réalisation des contrats d’approvisionnement qui laissent les soldats livrés à eux-mêmes, sans équipements ; népotisme des officiers au détriment de la formation, du professionnalisme et du mérite ; impunité et indiscipline qui favorisent les abus autant que les désertions, etc.
 
@@ -395,12 +199,7 @@ Les forces de sécurité, en particulier, connaissent mal les environnements où
 
 Cantonnés dans des casernes en ville, policiers et militaires nigérians, eux, ont vécu dans la peur d’attaques qui pouvaient les surprendre à n’importe quel moment du jour ou de la nuit. Persuadés que la population musulmane leur était hostile, ils se sont méfiés de tout le monde et n’ont pas hésité à tirer dans le tas. La sauvagerie de leur répression et leur manque de retenue à l’égard des civils n’ont pas été pour rien dans la brutalisation de Boko Haram et la perpétuation des hostilités.
 
-
-
-
-
 De la mauvaise gestion des conflits
-
 
 Plutôt que de s’appesantir sur une prétendue radicalisation de l’islam, il convient ainsi de revenir sur la façon dont la mauvaise gestion des conflits a provoqué et entretenu des révoltes de type djihadiste. Les défaillances des pouvoirs publics ont joué un rôle essentiel. Dans le cas du sud de la Somalie et du nord du Mali, il est assez étonnant à cet égard d’entendre les décideurs politiques renverser la perspective en prétendant que les terroristes seraient responsables du chaos ambiant. En réalité, la nature a horreur du vide. C’est justement l’absence d’un État régulateur, arbitre impartial des conflits, qui a favorisé l’émergence de groupes djihadistes dans des contextes déjà très violents.
 
@@ -418,10 +217,6 @@ En dehors des frontières de la Somalie, les Chebab ont aussi réussi à étendr
 
 Du fait de sa plus grande proximité avec le Mali et de son poids économique et politique dans la bande sahélienne, le Nigeria est bien aussi significatif des errements des forces de sécurité engagées dans la lutte contre le terrorisme. La mauvaise gestion du conflit avec Boko Haram y a précipité le glissement de la secte islamiste dans la violence après l’exécution extrajudiciaire de son fondateur en juillet 2009 à Maiduguri, fief historique du groupe. La chronologie des événements présente à cet égard d’étonnantes similitudes avec la répression du mouvement Maitatsine près de trente ans plus tôt. Dans un cas comme dans l’autre, la police a procédé à des arrestations arbitraires, molesté des innocents et refusé de rendre des comptes aux commissions d’enquête mises en place par les autorités12. Les opérations lancées à l’époque pour écraser les protestataires portaient également des noms quasi identiques : Flush Out en octobre 1982 ; Flush en juin 2009. Coïncidence ou reflet du manque d’imagination des forces de l’ordre ? Nul ne le sait. Quoi qu’il en soit, ces opérations « Nettoyage » se sont accompagnées de nombreux abus qui ont aggravé la situation, précipité les rebelles dans la clandestinité et déplacé le conflit vers d’autres localités [voir l’encadré].
 
-
-
-
-
 Maitatsine et Boko Haram : même combat ?
 
 Concernant le mouvement Maitatsine, les autorités ont d’abord voulu empêcher un rassemblement des fidèles de la secte devant le palais traditionnel du Shehu du Borno à Maiduguri. L’objectif était d’éviter que ne se renouvelle la séquence qui, deux ans auparavant, avait dégénéré et provoqué la mort de plus de 4 000 personnes à la suite d’affrontements devant la résidence de l’émir de Kano et la mosquée centrale de la ville, capturée par les rebelles. À Maiduguri en octobre 1982, la police s’est ainsi lancée à la poursuite des protestataires en raflant les passants qui lui tombaient sous la main à Zajiri dans le quartier populaire de Bolori, un futur fief de Boko Haram. Elle cibla notamment les habitants de la banlieue de Bullum-Kutu où les fidèles de la secte Maitatsine s’étaient retranchés après de premiers incidents au cours desquels un inspecteur de police avait été tué en 1979, avant d’être rejoints par d’autres membres du groupe fuyant la répression militaire à Kano fin 1980. Pour autant, la répression n’a pas mis un terme aux activités des rebelles. Le chef du mouvement Maitatsine à Maiduguri, Ibrahim Yatu, parvint à échapper au massacre final et les fidèles de la secte se retrouvèrent plus au sud dans les villes de Yola puis Gombe, où de nouveaux affrontements avec les forces de l’ordre firent plus d’un millier de morts en février-mars 1984 puis avril 1985.
@@ -434,12 +229,7 @@ Les chantres du djihad mondial racontent ainsi comment l’armée empêcha les f
 
 Encerclés dans leur centre religieux appelé markaz, près de la gare de Maiduguri, les derniers combattants de Boko Haram durent cependant se résoudre à fuir et à se disperser avant d’aller se cacher en brousse et de passer à des actions de guérilla. Mohamed Yusuf, lui, fut capturé par l’armée, livré à la police et exécuté sommairement, sans aucun procès. Les forces de l’ordre enterrèrent son corps à la va-vite avec des centaines de fidèles liquidés dans des conditions similaires, souvent en pleine rue, au vu et au su de tous. Maiduguri retrouva un calme précaire, annonciateur de la tempête à venir.
 
-
-
-
-
 De l’impunité au nom de la sécurité
-
 
 La répression a-t-elle été efficace ? Comme au Mali avec l’intervention militaire de la France début 2013, elle a temporairement permis d’arrêter la progression des djihadistes de Boko Haram. Mais elle n’a rien réglé. À Abuja, la capitale fédérale du Nigeria, j’ai ainsi eu l’occasion de m’entretenir en privé avec les plus hauts responsables de la police et de l’armée à l’époque en charge de la répression. Ils étaient unanimes. L’exécution extrajudiciaire de Mohamed Yusuf avait été une énorme bêtise. Cette erreur stratégique avait radicalisé et précipité le groupe dans la clandestinité en donnant raison aux partisans de la lutte armée contre les « colombes » qui souhaitaient négocier avec le gouvernement. À mots couverts, le chef de la police m’avouait qu’en fin de compte il ne contrôlait pas vraiment ses hommes : un problème de discipline et de chaîne de commandement que l’on retrouve dans bien des armées africaines, y compris au Mali.
 
@@ -451,93 +241,13 @@ Il faut dire que l’impunité des militaires et des policiers est courante en A
 
 Les organisations de défense des droits de l’homme relèvent ainsi qu’au sein de l’armée malienne, les sanctions prises à l’encontre des auteurs d’abus consistent le plus souvent à les muter dans d’autres régions17. Dans le même ordre d’idées, les miliciens sont très rarement punis lorsqu’ils commettent des exactions. À la suite d’affrontements qui avaient fait 26 morts à Malemana en avril et mai 2016, par exemple, les autorités coutumières des Bambara impliqués dans des violences communautaires contre des Peuls suspectés de sympathies djihadistes ont simplement été condamnées à des peines de prison avec sursis. Ces sentences ont évidemment laissé aux victimes le sentiment d’une profonde injustice. Elles ont aussi contribué à entretenir leur défiance à l’égard des autorités politiques, modernes comme traditionnelles. Les problèmes de justice sont pourtant au cœur de la question du djihadisme.
 
-
-
-
-
-1. Shultz, Richard & Ruth Margolies Beitler [June 2004], « Tactical Deception and Strategic Surprise in Al-Qaida’s Operations », Middle East Review of International Affairs, vol. 8, no 2. Accès: http://www.mafhoum.com/press7/201P2.htm
-
-
-
-2. Hansen, Stig Jarle [2019], Horn, Sahel and Rift: Faultlines, of the African Jihad, London, Hurst, p. 62.
-
-
-
-3. D’origine coloniale, cette institution paramilitaire avait d’ailleurs été une des seules à voir ses effectifs continuer d’augmenter en dépit de la signature avec la Banque mondiale en 1982 d’un plan d’ajustement structurel qui prévoyait de réduire drastiquement le nombre de fonctionnaires maliens. Cf. Benjaminsen, Tor & Boubacar Ba [2019], « Why do pastoralists in Mali join jihadist groups? A political ecological explanation », The Journal of Peasant Studies, vol. 46, no 1, pp. 1-20 ; Sangare, Boukary [2016], Le Centre du Mali : épicentre du djihadisme ? Bruxelles, Groupe de recherche et d’information sur la Paix et la Sécurité, 12 p. ; Geel, Florent, Antonin Rabecq, Drissa Traoré & Rémi Carayol [2018], Dans le centre du Mali, les populations prises au piège du terrorisme et du contreterrorisme : Rapport d’enquête, Paris, FIDH, p. 25 & 28.
-
-
-
-4. ICG [2017], Nord du Burkina Faso : ce que cache le jihad, Brussels, International Crisis Group, 21 p.
-
-
-
-5. Umar, Muhammad Sani [March 1999], « Muslims Eschatological Discourses on Colonialism in Northern Nigeria », Journal of the American Academy of Religion vol. 67, no 1, p. 74.
-
-
-
-6. Abraham, Roy Clive [1946], Dictionary of the Hausa Language, London, Government of Nigeria, pp. 83-84.
-
-
-
-7. Harding, Andrew [2016], The Mayor of Mogadishu: A story of Chaos and redemption in the Ruins of Somalia, London, Hurst, p. 179.
-
-
-
-8. Williams, Paul [2018], Fighting for Peace in Somalia: A History and Analysis of the African Union Mission (AMISOM), 2007-2017, Oxford, Oxford University Press, p. 340.
-
-
-
-9. À dire vrai, la Somalie ne fait pas exception. En dépit des formations militaires proposées par la communauté internationale, on retrouve le même problème à la frontière de l’Ouganda dans l’est de la République démocratique du Congo, où les pseudo-djihadistes des Allied Democratic Forces sont réputés plus disciplinés que les pillards de l’armée congolaise. Cf. Robinson, Collin [2016], « Revisiting the rise and fall of the Somali Armed Forces, 1960-2012 », Defense & Security Analysis, vol. 32, no 3, pp. 237-252 ; Ingiriis, Mohamed Haji [2018], « Building peace from the margins in Somalia: The case for political settlement with Al-Shabaab », Contemporary Security Policy, vol. 39, no 4, p. 525 ; Titeca, Kristof & Koen Vlassenroot [2012], « Rebels without borders in the Rwenzori borderland? A biography of the Allied Democratic Forces », Journal of Eastern African Studies, vol. 6, no 1, p. 167.
-
-
-
-10. Williams, Paul [2018], Fighting for Peace in Somalia: A History and Analysis of the African Union Mission (AMISOM), 2007-2017, Oxford, Oxford University Press, p. 88.
-
-
-
-11. Prestholdt, Jeremy [2019], « Kenya: Counterterrorism in Kenya: Security aid, impunity and Muslim alienation », in Boyle, Michael (dir.), Non-Western Responses to Terrorism, Manchester, Manchester University Press, p. 399.
-
-
-
-12. El-Badaway, Hassan [1982], Government White Paper on the report of the Commission of Inquiry into the Religious Disturbances in Bulum-Kuttu area of Maiduguri between the 26th-29th October 1982, Maiduguri, Government Printer, 20 p. ; Galtimari, Usman Gaji (dir.) [oct. 2009], Report of the administrative committee of inquiry into the Boko Haram insurgency in Borno State, Maiduguri, Borno State, 5 vol.
-
-
-
-13. Pérouse de Montclos, Marc-Antoine (dir.) Boko Haram: Islamism, politics, security, and the state in Nigeria, Los Angeles, Tsehai, 2015, 318 p. ; Walker, Andrew (2016), Eat the heart of the infidel: The harrowing of northern Nigeria and the rise of Boko Haram, London, Hurst, 281 p.
-
-
-
-14. Al-Barnawi, Abu Yusuf et al. [2018], Cutting out the tumour from the Khawarij of Shekau by the allegiance pledge of the people of nobility, n.d., Channel of Facts for Media. Accès :
-
 http://www.aymennjawad.org/21467/the-islamic-state-west-africa-province-vs-abu
-
-
-
-15. Owen, Olly [Fév. 2016], « Government properties: The Nigeria Police Force as total institution? », Africa, vol. 86, no 1, p. 51.
-
-
-
-16. Dès avant l’indépendance au Nigeria, un policier du nom de Haruna dan Daura, qui avait participé en 1953 à des émeutes dans la ville musulmane de Kano, fut par exemple promu inspecteur en 1958 et devint responsable d’un tribunal coutumier dans le quartier du Sabon Gari alors que, de notoriété publique, il était connu pour être un chef de gang ! Cf. Shankar, Shobana [2016], Who shall enter Paradise ? Christian origins in Muslim northern Nigeria, ca. 1890-1975, Athens, Ohio University Press, p. 128.
-
-
-
-17. Geel, Florent, Antonin Rabecq, Drissa Traoré & Rémi Carayol [2018], Dans le centre du Mali, les populations prises au piège du terrorisme et du contreterrorisme : Rapport d’enquête, Paris, FIDH, pp. 11, 25 & 28.
-
-
-
-
 
 Chapitre III
 
-
 Djihadisme et charia
 
-
-
-
-
 Soudan, Khartoum, fin 2000
-
 
 J’arrive à Khartoum en période électorale. Le général Omar el Bashir s’apprête à se faire réélire sans surprise pendant que son ancien allié, Hassan el Tourabi (1932-2016), essaie de remonter un parti islamiste depuis qu’il est revenu dans le camp de l’opposition. Au même moment en Floride, on en est encore à recompter les bulletins de vote pour savoir si, oui ou non, George W. Bush sera le prochain président des États-Unis. Les Soudanais ne manquent pas d’humour. La blague qui circule quand je débarque à Khartoum pose la question de savoir quelle est la différence entre des élections au Soudan et aux États-Unis. Réponse : au Soudan, on connaît le résultat au moins un mois à l’avance. Aux États-Unis, un mois après le vote, on ne sait toujours pas qui a gagné ! La leçon est amère et ironique : finalement, les Africains sont beaucoup plus modernes et rapides que les Occidentaux pour mener à bien des scrutins dits « populaires ».
 
@@ -547,18 +257,11 @@ Hassan el Tourabi est facilement accessible. Il me reçoit sans cérémonies dan
 
 « La charia, explique-t-il, est un ensemble d’usages, un code de conduite, comme dans la rue, qui se dit chara en arabe. Ce n’est pas seulement une affaire de conscience mais de culture, qui repose sur la force de la pression sociale. Le prophète lui-même était un leader et non un ruler, un guide et non un autocrate. »
 
-
-
 À entendre Hassan el Tourabi, la charia serait donc démocratique et son application aiderait à résoudre les problèmes de mauvaise gouvernance des pays musulmans du Sahel. Dans un monde moderne et global, on a pourtant peine à imaginer que le modèle religieux du prophète Mahomet suffise à construire des projets de société crédibles et susceptibles de se substituer à des États défaillants, corrompus, prédateurs et autoritaires. Est-il seulement vraisemblable que le droit islamique de la charia permette d’améliorer le sort de pays où les élections ne font qu’entretenir des régimes clientélistes et mafieux ?
 
 De son côté, la France peut-elle raisonnablement espérer contrer en Afrique des demandes politiques à caractère religieux en soutenant des satrapes et en diffusant les valeurs républicaines qu’elle avait déjà tenté d’inculquer du temps de la colonisation ? C’est loin d’être évident. D’abord, il convient de ne pas se faire d’illusions sur la capacité de la France laïque et militaire à interférer dans le domaine religieux, au risque de provoquer des réactions nationalistes contre une ingérence « néocoloniale ». De plus, il importe de ne pas surestimer la puissance d’attraction des mouvements salafistes d’inspiration wahhabite, si tant est qu’ils soient vraiment la matrice idéologique des versions modernes et contemporaines du djihadisme au Sahel, une hypothèse fort discutable.
 
-
-
-
-
 Anticolonialisme, islamisme et révolte sociale
-
 
 En réalité, les contre-modèles islamistes et anticoloniaux ont surtout prospéré par défaut d’État. Au Mali, notamment, la fragmentation des formations politiques et le discrédit de la classe dirigeante ont poussé une partie des élites à concevoir des projets de société alternatifs en se référant à des normes religieuses. Autrefois cité comme un exemple réussi de transition démocratique, ce pays est à présent englué dans un marasme assez désespérant. Sous prétexte d’une énième réforme constitutionnelle, le gouvernement a ainsi repoussé à 2020 les élections législatives, sénatoriales et locales initialement prévues en 2019, quitte à revenir sur les avancées politiques obtenues avant le coup d’État de 2012 et l’intervention de la France en 2013.
 
@@ -576,24 +279,15 @@ Dans le nord du Mali, il n’est pas rare non plus d’entendre qu’en dépit d
 
 Bien entendu, les leaders djihadistes ne sont pas les derniers à vilipender le relâchement de l’ordre moral et la criminalité des cols blancs. Tant le fondateur de Boko Haram que de la katiba (« brigade ») du Macina, Mohamed Yusuf au Nigeria et Amadou Koufa au Mali, ont ainsi construit leur popularité sur la base d’un discours politique dénonçant l’enrichissement éhonté d’une classe dirigeante impie et indifférente au sort des indigents. Dans les années 1980 au Nigeria, la secte islamiste Maitatsine avait aussi, à sa manière, exprimé le sentiment d’insécurité des pauvres de Kano et Maiduguri en les invitant à expier le mal suivant des procédures qui n’étaient d’ailleurs pas sans rappeler le lynchage des voleurs ou l’expulsion des étrangers dans le sud du pays à dominante chrétienne11.
 
-
-
-
-
 Des tribunaux virtuels :
 
 loin du peuple, loin de la foi
-
 
 À cet égard, force est de constater que, pour régler leurs conflits et combattre la criminalité, les populations sahéliennes recourent très peu à la justice de l’État, celle des juges en toges. Au Nigeria, par exemple, des sondages réalisés par les Nations unies en 2016 montrent que moins de 8 % des disputes liées à des querelles de voisinage, des affaires familiales, des désaccords commerciaux ou des litiges fonciers remontent jusqu’à des tribunaux. Les préventions à l’encontre de la justice étatique, en l’occurrence, ne tiennent pas seulement à des problèmes de coûts, de distance ou d’intelligibilité de la loi, mais aussi à un sentiment profondément ancré dans la population selon lequel les juges sont corrompus et ne protègent pas efficacement les droits du simple citoyen : près de la moitié des Nigérians en sont convaincus12.
 
 Des enquêtes menées au Mali et au Niger révèlent la même défiance. Si l’on en croit des sondages conduits début 2019 dans les régions centrales de Mopti et Ségou où opère la katiba du Macina, près des trois quarts des habitants estiment que les autorités coutumières sont plus impartiales que les représentants de l’État et près des deux tiers se tournent vers elles pour régler leurs conflits. Pour se protéger, la population locale préfère également monter ses propres groupes d’autodéfense car les acteurs internationaux sont considérés comme les plus inefficaces contre l’insécurité ambiante, tandis que les forces maliennes paraissent bien aussi menaçantes que les bandes armées, djihadistes ou non13. De même au Niger dans la région de Diffa, où sévit Boko Haram, des sondages réalisés fin 2018 montrent que près des deux tiers des personnes interrogées estiment qu’il n’est tout simplement pas possible de saisir la justice d’État pour faire valoir ses droits face aux abus des belligérants14.
 
 Résultat, les populations sahéliennes ont l’habitude de régler leurs conflits en faisant appel à des autorités religieuses et coutumières, villageoises ou claniques [voir l’encadré]. Paradoxalement, c’est le colonisateur qui a étendu le domaine d’application de la charia. En dehors des aires de nomadisme au Sahara, les sociétés musulmanes du Sahel avaient en effet la réputation d’être plus hiérarchisées et mieux organisées que les tribus « païennes » de l’Afrique tropicale. Une fois passé le temps de la conquête militaire, le colonisateur décida donc de consolider le pouvoir des émirs, devenus de facto ses alliés pour lever l’impôt et faire régner l’ordre. Les Britanniques, en particulier, ont poussé les clercs islamiques à juger des païens et pas seulement des musulmans. Dans le même ordre d’idées, ils ont cherché à institutionnaliser la charia en la codifiant à partir d’une traduction française d’un traité malékite du juriste égyptien Khalil ben Ishaq al-Jundi15.
-
-
-
-
 
 La charia contre le droit coutumier
 
@@ -603,22 +297,13 @@ Dans une très large mesure, le Sahara occidental et la Mauritanie constituaient
 
 En pratique, l’exercice du droit islamique en milieu saharien et nomade dut s’appuyer sur les règles de solidarité lignagère (asabiyya). Pour éviter la guerre entre musulmans, notamment, la charia ne pouvait être appliquée qu’à partir du moment où les groupes en conflit appartenaient à une même aire tribale et acceptaient l’arbitrage d’un médiateur reconnu de tous. Une telle caractéristique dérogeait aux ambitions universalistes de l’islam et d’une communauté de croyance qui, précisément, visait à transcender les clivages ethniques et à promouvoir le respect d’un droit contractuel indispensable au développement du commerce transsaharien. Dans le monde nomade, la loi du Clan l’emportait sur la loi de Dieu. Lorsqu’il n’était pas satisfait d’une sentence, par exemple, un plaignant ne se gênait pas pour bafouer l’autorité d’un cadi en allant solliciter le verdict d’une autre tribu. La justice semblait d’autant moins religieuse qu’un « arbitre » (muslih) pouvait tout aussi bien être un chef tribal qu’un juge (qadi) ou un savant (alim) islamiques.
 
-
-
-
-
 Dans le nord du Nigeria, notamment, les Britanniques ont littéralement fonctionnarisé les cadis et les oulémas chargés de rendre la justice islamique. Dans une région qui, à la différence du monde arabe, n’avait pas vu se développer de fondations pieuses à caractère caritatif (awqaf, sg. waqf), ces derniers avaient l’habitude de vivre d’aumônes et de dons versés pour les remercier de leurs enseignements, de leur copie des textes sacrés et de leur supervision des cérémonies religieuses. Avec les Britanniques, en revanche, ils ont commencé à recevoir des salaires et à percevoir des honoraires, évolution qui ne fut d’ailleurs pas sans susciter des protestations de la part des croyants qui estimaient que l’accès à la justice divine devait être gratuit.
 
 Républicains et laïcs, les Français, eux, montrèrent moins d’enthousiasme à l’idée d’institutionnaliser la charia et les cadis. Bien souvent, les historiens tendent ainsi à opposer les deux modes d’administration des principales puissances impérialistes qui colonisèrent le Sahel. Car autant les Britanniques gouvernèrent en s’appuyant sur les émirs du Nigeria et du Soudan, autant les Français mirent en place une gestion plus directe de leurs territoires, en l’occurrence sous la houlette de commandants de cercles au Mali ou au Niger. Dans des pays comme le Tchad, cependant, le colonisateur allait légaliser une justice coutumière qui, en pratique, revint à confier à des cadis le soin de rendre des sentences s’appliquant aussi à des populations non musulmanes. Certes moins visible qu’au Nigeria, la charia à la mode française fut en quelque sorte dissoute dans des modes de règlement tribaux.
 
 Le moment des indépendances bouleversa évidemment la donne. Dans les années 1960, la mode était au nationalisme et au socialisme. On parla donc moins de la charia. Celle-ci n’avait pas pour autant disparu du débat politique. La question de son application revint en force au moment où l’argent facile du choc pétrolier des années 1970 permit aux pays du Golfe de financer des campagnes de prosélytisme à tout va. La fin de la guerre froide et l’écroulement des dernières illusions que des rebelles africains entretenaient encore à propos du marxisme consacrèrent alors le triomphe de l’islamisme comme alternative à l’échec du projet nationaliste des États postindépendance.
 
-
-
-
-
 Avantages et inconvénients de la charia
-
 
 En pratique, la charia n’avait en fait jamais disparu comme mode de règlement plus ou moins formalisé des disputes qui pouvaient agiter les populations de l’Afrique sahélienne. Les musulmans lui trouvaient plusieurs avantages. D’abord sa simplicité et sa rapidité : en l’absence d’un véritable juge d’instruction, il suffisait d’identifier un coupable (dhâlim) et une victime (madhlûm) pour rendre un verdict. Dans les affaires pénales, en particulier, l’objectif était surtout de superviser le versement d’une compensation de pair avec un pardon qui devait permettre de désamorcer l’engrenage infernal des vendettas.
 
@@ -640,12 +325,7 @@ De ce point de vue, il est clair que la charia n’a pas tenu ses promesses. Les
 
 Les djihadistes eux-mêmes ont contribué à rendre la charia inapplicable. Au cours des années 2000 et 2010, les deux États de la fédération nigériane les plus touchés par l’insurrection de Boko Haram, le Borno et le Yobe, ont ainsi été ceux qui enregistraient le plus faible taux d’affaires portées devant des tribunaux islamiques. En effet, les rebelles s’en sont pris à tous les symboles de l’État : commissariats de police, bâtiments administratifs, écoles publiques, etc. Ils n’ont donc pas hésité à brûler des tribunaux islamiques qui, selon eux, avaient le tort d’avoir été institués par un État impie ; à l’occasion, ils ont aussi tué des cadis, au moins quatre selon certains décomptes20.
 
-
-
-
-
 Le retour du politique
-
 
 La leçon est amère. Au Sahel, le contexte politique fait dire à certains que, finalement, les pays soumis à l’épreuve du djihadisme n’ont le choix qu’entre devenir intègres ou intégristes ! Or aucune option n’a abouti. D’un côté, la charia n’a pas satisfait les demandes de justice sociale des musulmans qui y voyaient une sorte de remède miracle contre la corruption ambiante. De l’autre, les États sahéliens n’ont pas réussi à améliorer leur gouvernance de façon significative. Certes, l’ère des dictatures militaires a pratiquement disparu depuis la fin de la guerre froide ; des régimes autoritaires sont également tombés au Soudan en 2019, au Burkina Faso en 2014 ou au Niger en 2010-2011. Mais les fondamentaux n’ont pas vraiment évolué. Au contraire, la guerre contre le terrorisme a justifié la mise en place d’états d’exception et d’urgence qui ont favorisé les violations du droit et assuré l’impunité des forces de l’ordre. Aujourd’hui au Mali et dans la région du lac Tchad, on ne voit pas d’alternative se profiler pour réoccuper les territoires autrefois tenus par les insurgés. L’État reste désespérément absent, comme avant, et la France n’en peut mais.
 
@@ -659,142 +339,31 @@ Plusieurs raisons peuvent expliquer cette erreur de diagnostic. La haine des val
 
 De fait, la crise du Sahel est quasi systématiquement appréhendée en termes de terrorisme et non d’insurrection, ce qui contribue à fausser son analyse et à légitimer la mise en place de régimes d’exception qui violent l’état de droit. De plus, le djihadisme est largement perçu comme une menace globale et importée du monde arabe, ce qui permet aux gouvernements des pays concernés de botter en touche, de nier les racines locales des affrontements et d’occulter leur dimension politique. Dans le même ordre d’idées, le problème est imputé à une « radicalisation de l’islam » et à une mauvaise interprétation du Coran, prisme religieux qui, encore une fois, déporte le regard ailleurs en dédouanant les alliés africains de la France de leurs responsabilités dans la poursuite des hostilités. Enfin, la crise du Sahel est mise sur le compte de la pauvreté et non de l’accaparement des ressources par la classe dirigeante, une autre manière de dépolitiser le djihadisme en entretenant de grandes illusions sur les mérites de l’aide publique au développement pour acheter la paix sociale.
 
-
-
-
-
-1. L’intégralité de cet entretien a été publiée par la revue Politique internationale au printemps 2001.
-
-
-
-2. N’Diaye, Issa [2018], Silence on démocratise ! Démocratie et fractures sociales au Mali, vol. 1, Paris, L’Harmattan, p. 25 ; Pérouse de Montclos, Marc-Antoine [2009], Des transitions démocratiques dans l'impasse : vers un nouveau régime politique en Afrique subsaharienne ? Paris, Études de l’IFRI, 44 p.
-
-
-
-3. UNDP [2017], Journey to Extremism in Africa: Drivers, Incentives and the Tipping Point for Recruitment, New York, UNDP, 112 p. ; Botha, Anneli [2017], Terrorism in Kenya and Uganda: Radicalization from a Political Socialization Perspective, London, Lexington Books, p. 155.
-
-
-
-4. ICG [2015], Cameroun : la menace du radicalisme religieux, Brussels, International Crisis Group, p. 8.
-
-
-
-5. Miran-Guyon, Marie [déc. 1998], « Dynamisme urbain d’un islam réformiste en Côte d’Ivoire contemporaine (1960-1996) », Islam et Sociétés au Sud du Sahara, no 12, pp. 5-74.
-
-
-
-6. Amselle, Jean-Loup [1985], « Le Wahhabisme à Bamako (1945-1985) », Canadian Journal of African Studies, vol. 19, no 2, pp. 345-357.
-
-
-
-7. Loimeier, Roman [2016], Islamic Reform in 20th Century Africa, Edinburgh University Press, p. 115.
-
-
-
-8. Planhol (de), Xavier [1968], Les Fondements géographiques de l'histoire de l'islam, Paris, Flammarion, p. 24.
-
-
-
-9. Hansen, Stig Jarle, [2019], Horn, Sahel and Rift: Faultlines, of the African Jihad, London, Hurst, p. 183.
-
-
-
-10. Sommerfelt, Tone, Anne Hatløy & Kristin Jesnes [2015], Réorientation religieuse au sud du Mali, Oslo, FAFO, p. 9.
-
-
-
-11. Nicolas, Guy [oct. 1984], « Métamorphose de l’islam nigérian, deuxième partie », Le Mois en Afrique, nos 225-6, p. 139.
-
-
-
-12. UNODC [2017], Corruption in Nigeria. Bribery: public experience and response, Vienna, United Nations Office on Drugs and Crime, p. 68.
-
-
-
-13. SIPRI [2019], Les Indicateurs de sécurité et de développement au Centre du Mali, Bamako, Stockholm International Peace Research Institute, pp. 12 & 22.
-
-
-
-14. Tchangari, Moussa & Ibrahim Diori [2019], Crise sécuritaire à Diffa : Les droits humains à l’épreuve de l’état d’urgence, Niamey, Alternative Espaces Citoyens, p. 3.
-
-
-
-15. Pierce, Steven [2006], « Punishment and the Political Body: Flogging and Colonialism in Northern Nigeria », in Pierce, Steven & Anupama Tao (dir.), Discipline and the Other Body: Correction, Corporality, Colonialism, Durham (NC), Duke University Press, p. 189.
-
-
-
-16. Ould Cheikh, Abdel Wedoud [2011], « Théologie du désordre. Islam, ordre et désordre au Sahara », L’Année du Maghreb, vol. 7, pp. 61-77.
-
-
-
-17. Last, Murray [mai-août 2017], « The Sharia in context. People’s quest for justice today and the role of courts in pre- and early-colonial northern Nigeria », Sociétés politiques comparées, no 42, 17 p.
-
-
-
-18. Ostien, Philip, Ahmed Garba & Musa Abubakar [2019], « Nigeria’s Sharia Courts », in Tabiu, Muhammed, Abdul Raufu Mustapha & Philip Ostien (dir.), Sharia Implementation in Northern Nigeria, Twenty Years On: Six Research Reports and an Overview, à paraître.
-
-
-
-19. Last, Murray [2000], « Children and the Experience of Violence: Contrasting Cultures of Punishment in Northern Nigeria », Africa, vol. 70, no 3, p. 367; Keay, Elliot Alexander & Richardson, Sam Scruton [1966], The Native and Customary Courts of Nigeria, London, Sweet & Maxwell; Lagos, African Universities Press, p. 72.
-
-
-
-20. Ostien, op. cit.
-
-
-
-21. Aksoy, Deniz [2014], « Elections and the Timing of Terrorist Attacks », The Journal of Politics, vol. 76, no 4, p. 911.
-
-
-
-22. Selon certains, l’opération Serval aurait aussi eu pour objectif de prévenir la possibilité d’un putsch contre le gouvernement de transition mis en place à Bamako avec le soutien de la communauté internationale. Ce point n’a jamais été confirmé officiellement.
-
-
-
-
-
 DES ERREURS
 
 DE DIAGNOSTIC
 
-
-
-
-
 Chapitre IV
-
 
 Le prisme du terrorisme :
 
 un jeu dangereux
 
-
-
-
-
 « Vous demandez ce que l’on va faire des terroristes si on les retrouve. Les détruire, les faire prisonniers si c’est possible et faire en sorte qu’ils ne puissent plus nuire à l’avenir. »
 
 Conférence de presse du président François Hollande à Dubaï le 15 janvier 2013.
-
-
 
 « Il faut éradiquer le terrorisme où qu’il se trouve » ; « c’est contre le terrorisme que la France est en guerre ».
 
 Jean-Yves Le Drian, ministre de la Défense, interview dans Le Grand Rendez-vous, Europe 1, Paris, 13 janvier 2013.
 
-
-
 Au Mali, la France n’a « d’autre but que la lutte contre le terrorisme ».
 
 Déclaration du président François Hollande à l’Élysée le 12 janvier 2013.
 
-
-
 « Les forces armées françaises ont apporté leur soutien aux unités maliennes pour lutter contre des éléments terroristes… [Cette opération] durera le temps nécessaire. »
 
 Message diplomatique envoyé par la France au Conseil de sécurité de l’ONU à New York le 12 janvier 20131.
-
-
 
 Le récit dominant sur la crise du Mali et, d’une manière plus générale, au Sahel, insiste sur l’importance d’une menace qualifiée de « terroriste ». À l’Élysée, on trouve le terme plus neutre et rassembleur que celui « d’islamiste », qui pourrait heurter les musulmans de France, ou « d’insurgé », qui reconnaîtrait aux djihadistes un semblant de statut de combattant. Les éléments de langage sont importants. Ils doivent servir à satisfaire les exigences de l’électorat, aller dans le sens de l’opinion publique et mobiliser la communauté internationale pour obtenir l’approbation de l’opération Serval sous la forme de soutiens politiques, militaires et financiers.
 
@@ -808,12 +377,7 @@ Une pareille labélisation a eu des conséquences directement opérationnelles s
 
 Autre paradoxe, la mise en récit officielle de la menace a insisté sur l’existence d’un vaste complot djihadiste à l’international, de pair avec la permissivité d’une idéologie extrémiste en provenance du monde arabe : le wahhabisme. Résultat, la France républicaine et laïque a surdéterminé l’importance de l’élément religieux pour comprendre les conflits de la zone4. Cela a conduit les autorités à concevoir la sortie de la crise et la démobilisation des combattants en termes de dé-radicalisation et de dés-endoctrinement : avec des résultats décevants, à la hauteur de la qualité du diagnostic, comme on le verra dans le chapitre VII.
 
-
-
-
-
 Le grand malentendu
-
 
 Parmi toute une série de problèmes qui sont évoqués ci-dessous, l’usage du mot terrorisme a aussi eu pour inconvénient de justifier l’usage de la force brute, de légitimer les violations du droit, de renoncer à des approches plus subtiles, de fermer les possibilités de dialogue, de radicaliser les djihadistes et de criminaliser les secouristes en contact avec les insurgés pour négocier la distribution d’une aide aux populations dans le besoin. Dans les conflits armés, le droit international humanitaire, lui, distingue essentiellement les civils des combattants, que ceux-ci soient membres ou non de forces régulières. Mais en Afrique, le mot « terroriste » a fini par désigner un peu tout et n’importe quoi : des éleveurs de bétail au Mali ou au Nigeria, des pirates dans le Golfe de Guinée, des gangs de rue au Kenya, des opposants politiques au Tchad ou au Cameroun, etc.
 
@@ -831,29 +395,15 @@ De son côté, l’armée française persiste à figer le décor dans des catég
 
 Très rigide, une telle nomenclature méconnaît en l’occurrence la perméabilité des catégories, à commencer par la circulation d’un camp à l’autre des officiers touaregs qui, intégrés à l’armée malienne au cours des années 2000, s’étaient empressés de déserter pour rejoindre les insurgés en 2012. En réalité, les notables de la région se caractérisent par une sorte de « nomadisme politique » qui consiste, selon les intérêts du moment, à créer sa propre faction armée ou à prêter allégeance à tel ou tel mouvement. En pratique, l’armée française ne s’est d’ailleurs pas gênée pour reconnaître comme alliés miliciens des chefs de guerre qui avaient autrefois combattu pour le groupe Ansar Dine d’Iyad Ag Ghali, devenu depuis lors l’ennemi public numéro un de toute la région.
 
-
-
-
-
 La dramatisation à outrance du terrorisme : un sentiment partagé
-
 
 À sa manière, la lecture sans nuances de la menace djihadiste au Sahel est en fait symptomatique d’une peur qui se nourrit de représentations fort anciennes sur la sauvagerie de l’Africain et la violence intrinsèque de l’islam, désormais confondues dans un maître mot : le terrorisme. La France n’est sûrement pas la seule concernée par ce travers. La tendance à exagérer la portée du terrorisme et son incidence sur la sécurité au quotidien touche la plupart des pays occidentaux et des organisations internationales. La Banque mondiale, par exemple, n’est pas la dernière à entretenir le sentiment d’une augmentation générale de la violence qui contredit la tendance à la baisse observée par les spécialistes de la quantification des conflits armés7. Dans un récent rapport publié avec les Nations unies, elle évoque une explosion du nombre de victimes du terrorisme… qui s’explique en réalité par la tendance à classer de plus en plus de groupes insurrectionnels comme terroristes8. Certains chercheurs en sciences sociales ne sont pas non plus en reste. L’un d’entre eux s’inquiète ainsi de la multiplication des attentats suicides, de l’aggravation de leur létalité et de leur prolifération sur le plan spatial9. Le même auteur note pourtant que l’on a recensé 3 000 opérations de kamikazes japonais dans les derniers mois de l’année 1944. Toutes proportions gardées, c’est beaucoup plus que les 1 269 attentats suicides qui auraient occasionné plus de 16 000 morts sur une période autrement plus longue, entre 1981 et 2007.
 
 Les nomenclatures et le mode de codage des événements signalés comme relevant d’actes terroristes jouent également un rôle. Concernant les attentats suicides, par exemple, la base de données utilisée n’a démarré qu’en 1981, avec une attaque contre l’ambassade d’Irak à Beyrouth, et elle n’inclut pas les violences perpétrées par des acteurs étatiques, telle l’armée japonaise pendant la Seconde Guerre mondiale. Un pareil biais peut alors laisser croire à tort qu’il n’existait pas d’attentats suicides avant 1981, ou bien que ceux-ci ont essentiellement concerné le monde arabe avant de se diffuser en Afrique subsaharienne. Dès la Révolution de 1789, la France connut pourtant un cas assez similaire quand un horloger de Senlis élimina 25 personnes en allant se faire exploser dans la foule avec sa machine infernale, cela sans parler des anarchistes du début du xxe siècle.
 
-
-
-
-
 Des inconvénients opérationnels de la labélisation terroriste
 
-
 En réalité, si tant est que l’on se mette d’accord sur des définitions toujours discutables, les groupes dits « terroristes » tuent relativement peu de gens [voir l’encadré]. Qu’ils soient désormais désignés comme le principal risque sécuritaire à un niveau global devrait donc rassurer : cela montre à quel point le monde est devenu plus sûr depuis la fin des grandes tensions entre les superpuissances du temps de la guerre froide10. Au Sahel, la dramatisation à outrance de la menace djihadiste pose néanmoins de nombreux problèmes. Le premier d’entre eux est de susciter la panique, sachant que la peur est mauvaise conseillère et fait le jeu de l’ennemi. Au-delà de ses aspects meurtriers, le terrorisme est en effet une guerre de communication. L’exagération de son ampleur lui offre alors une formidable caisse de résonance à l’international. Ce travers est bien connu et, pour en limiter la portée, des spécialistes proposent par exemple que les médias se contentent désormais de relater les événements sans nommer ni montrer les groupes et les individus à l’origine des attentats et à la recherche de publicité11.
-
-
-
-
 
 Les réalités de l’impact mortifère du terrorisme
 
@@ -862,10 +412,6 @@ Toutes proportions gardées, les groupes qualifiés de « terroristes » faisaie
 Les chiffres tirés des organismes de santé publique sont sans appel à cet égard. Les principales causes de mortalité dans le monde ne sont ni le terrorisme, ni la guerre, ni les catastrophes naturelles, ni la criminalité, ni même le suicide, mais, bien plutôt, la maladie et, dans une moindre mesure, l’accident. En 2015 à l’échelle planétaire, on a ainsi enregistré 128,8 millions de naissances et 54,7 millions de décès. Parmi ces derniers, 39,8 résultaient de maladies non transmissibles : accidents cardiovasculaires (17,9 millions), cancer (8,8), difficultés respiratoires (3,8), Alzheimer (1,9), diabète (1,5), cirrhose (1,3), insuffisances rénales (1,2)… et abus de drogues (0,3). Les épidémies, les complications à la naissance et les problèmes nutritionnels avaient par ailleurs causé la mort de 11,3 millions de personnes, dont 3 du fait du sida, de la tuberculose et de la malaria. Les accidents, enfin, avaient été responsables de 4,7 millions de décès, les catastrophes naturelles étant quantité négligeable15.
 
 Bien sûr, on pourra toujours arguer qu’on ne meurt pas pour les mêmes raisons en Afrique, en Asie ou en Europe. Mais les ordres de grandeur ne changent pas fondamentalement. Des études plus fines à l’échelle du Kenya ou du Nigeria montrent également qu’en dehors des périodes et des zones de guerre, les accidents de la route constituent généralement la première cause de mortalité violente16. La disproportion des moyens déployés par les États de la région pour combattre le terrorisme plutôt que d’améliorer la sécurité routière n’en paraît que plus criante. Le constat vaut d’ailleurs aussi pour les pays développés.
-
-
-
-
 
 En Afrique subsaharienne, le problème est aussi que l’insistance des autorités à exagérer la portée de la menace djihadiste provoque d’immenses dégâts collatéraux en justifiant un recours disproportionné et inadapté à la force militaire. En principe, la réponse au terrorisme devrait être subtile et « intelligente » au sens britannique du terme, celui du renseignement. Elle est d’abord et avant tout une affaire de police et de justice, quoi qu’il en soit par ailleurs des racines politiques et sociales du problème. Or la France a fait le contraire au Mali en 2013, quitte à donner le sentiment de prendre un marteau pour aller écraser une mouche dans l’immensité des sables du désert.
 
@@ -885,12 +431,7 @@ Ainsi, les pays d’Afrique où les musulmans sont minoritaires et stigmatisés 
 
 La guerre ne se fait pas sans casser des œufs, poursuivent les partisans de la force. Les exécutions extrajudiciaires et les massacres de civils seraient finalement bien peu de chose : le « prix du sang » à payer pour se débarrasser de la vermine djihadiste. Les populations locales seraient d’ailleurs favorables à l’emploi de la force brute. Ainsi, les habitants de Bamako et du sud du Mali ne semblent nullement déplorer les bavures à répétition de leurs militaires au Nord et dans la région centrale de Mopti. Nationalistes, ils continuent souvent d’avoir une opinion positive de leur armée, comme au Nigeria. Face à la barbarie djihadiste, la conclusion serait donc sans appel : il faudrait des pouvoirs forts et inébranlables. Des études scientifiques le confirment à leur manière quand elles montrent que les groupes qualifiés de terroristes s’en prennent moins aux dictatures qu’aux démocraties, sans doute parce que ces dernières sont plus réticentes à user de la violence, plus sensibles aux impacts médiatiques et plus attentives aux humeurs de l’opinion publique20.
 
-
-
-
-
 Des approches manichéennes et destructrices
-
 
 À l’analyse, il convient cependant de tempérer l’enthousiasme destructeur des partisans de la force. En effet, la répression qu’ils préconisent est contre-productive, entre autres parce que ses abus font le jeu des insurgés. En pratique, elle ne consiste pas seulement à user de la terreur silencieuse et plus ou moins discrète des États policiers dans des prisons, des camps disciplinaires ou des foyers de rééducation qui, pour certains, portent désormais le nom de centres de dé-radicalisation. Au Sahel, la guerre contre le terrorisme a plusieurs fois débouché sur des massacres publics qui, en retour, ont pu stimuler la protestation populaire et légitimer le basculement dans la lutte armée21. De fait, la violence appelle la violence. Bien qu’ils soient minimisés en Occident et dans les capitales africaines, les abus de la guerre contre le terrorisme sont très visibles dans les zones de conflits.
 
@@ -906,126 +447,17 @@ Sont ainsi réunis tous les ingrédients qui peuvent contribuer à prolonger les
 
 Des raisons politiques ont également pu jouer. Pour les gouvernements élus du Niger, du Burkina Faso ou du Nigeria, la guerre contre le terrorisme est un moyen d’occuper les militaires et de les envoyer en brousse pour les éloigner des capitales et prévenir les possibilités de coup d’État ! Dans le même temps, la présence de troupes françaises ou américaines au Mali, au Niger ou au Cameroun sert de garde-fou contre le risque de putsch, avec un bonus qui n’est pas négligeable : elle décharge les armées nationales de leur mission de défense du territoire et leur permet de faire du business, une occupation beaucoup plus lucrative et moins dangereuse que de faire la guerre…
 
-
-
-
-
-1. https://www.lemonde.fr/afrique/article/2013/01/12/la-france-demande-une-acceleration-de-la-mise-en-place-de-la-force-internationale-au-mali_1816033_3212.html
-
-
-
-2. Weiner, Myron [1996], « Bad neighbors, bad neighborhoods : an inquiry into the causes of refugee flows », International Security, vol. 21, no 1, pp. 5-42
-
-
-
-3. Nolte, Ernst [2000], La Guerre civile européenne : 1917-1945, Genève, Éditions des Syrtes, 665 p.
-
-
-
-4. Pour une réflexion sur la tendance à « djihadiser » la lecture des conflits, voir aussi Pérouse de Montclos, Marc-Antoine [2018], Déconstruire la guerre. Acteurs, discours, controverses, Paris, Éditions Fondation de la Maison des Sciences de l’Homme, pp. 61-7.
-
-
-
-5. Geel, Florent, Antonin Rabecq, Drissa Traoré & Rémi Carayol [2018], Dans le centre du Mali, les populations prises au piège du terrorisme et du contreterrorisme : Rapport d’enquête, Paris, FIDH, p. 78.
-
-
-
-6. Chebli, Denia [27 juin 2017], « L’échec de l'intervention française au Mali », Libération. Accès : https://www.liberation.fr/debats/2017/06/27/l-echec-de-l-intervention-francaise-au-mali_1579931
-
-
-
-7. Pinker, Steven [2011], The Better Angels of Our Nature: The Decline of Violence in History and Its Causes, New York, Viking, 802 p. ; Mack, Andrew et al. [2006], Human Security Brief 2006, Vancouver, University of British Columbia, Human Security Centre, 30 p.
-
-
-
-8. United Nations, World Bank (dir.), Pathways for Peace : Inclusive Approaches to Preventing Violent Conflict, Washington, DC, World Bank, 2018, p. 24.
-
-
-
-9. Moghadam, Assaf [2008], The globalization of martyrdom: Al Qaeda, Salafi Jihad, and the diffusion of suicide attacks, Baltimore, Johns Hopkins University Press, pp. 2, 4, 14 & 40 ss.
-
-
-
-10. Jervis, Robert [déc. 2011], « Force in our times », International Relations, vol. 25, no 4, pp. 403-25.
-
-
-
-11. Lankford, Adam & Eric Madfis [fév. 2018], « Don’t Name Them, Don’t Show Them, But Report Everything Else: A Pragmatic Proposal for Denying Mass Killers the Attention They Seek and Deterring Future Offenders », American Behavioral Scientist, vol. 62, no 2, pp. 260-279.
-
-
-
-12. Pinker, Steven [2018], Enlightenment Now: the case for reason, science, humanism, and progress, New York, Viking, p. 195.
-
-
-
-13. Mathias, Gregor [2017], La France ciblée. Terrorisme et contre-terrorisme pendant la guerre d’Algérie, Paris, Vendémiaire, p. 37.
-
-
-
-14. Harari, Yuval Noah [2017], Homo Deus : une brève histoire de l’humanité, Paris, Albin Michel, p. 25. Voir aussi Clauset, Aaron, Young, Maxwell & Gleditsch, Kristian Skrede [Feb. 2007], « On the Frequency of Severe Terrorist Events », The Journal of Conflict Resolution, vol. 51, no 1, pp. 58-87.
-
-
-
-15. Lancet (ed.) [2015], Global Burden of Disease, Injuries and Risk Factors Survey : Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980-2015: a systematic analysis for the Global Burden of Disease Study. Accès : https://www.thelancet.com/gbd
-
-
-
-16. Bocquier, Philippe & Maupeu, Hervé [2005], « Analysing Low Intensity Conflict in Africa using Press Reports », European Journal of Population, vol. 21, pp. 321-345 ; Ukoji, Vitus [2016], « Trends and patterns of fatal road accidents in Nigeria (2006-2014) », in Pérouse de Montclos, Marc-Antoine (dir.), Violence in Nigeria: A qualitative and quantitative analysis, Ibadan, IFRA-Nigeria, Leiden, African Studies Centre, Waposo Series, no 3, pp. 13-40.
-
-
-
-17. Cronin, Audrey Kurth [2009], How terrorism ends : understanding the decline and demise of terrorist campaigns, Princeton, Princeton University Press, 311 p. ; Abrahms, Max [Autumn 2006], « Why Terrorism Does Not Work », International Security, vol. 31, no 2, pp. 42-78.
-
-
-
-18. Kaldor, Mary [2018], « War », in Allen, Tim (dir.), Humanitarianism: a dictionary of concepts, London, Routledge, pp. 340-51.
-
-
-
-19. Aujourd’hui, ce sont plutôt les Swahili du continent qui, depuis Dar es-Salaam, entretiennent des contacts avec les Chebab de Somalie et leurs alliés sur la côte kenyane.
-
-
-
-20. Enders, Walter & Sandler, Todd [2006], The political economy of terrorism, Cambridge, Cambridge University Press, 278 p.
-
-
-
-21. Francisco, Ronald [2005], « The Dictator’s Dilemma », in Davenport, Christian, Hank Johnston, & Carol Mueller (dir.), Repression and Mobilization, Minnesota, University of Minnesota Press, pp. 58-82.
-
-
-
-22. On peut lire à ce sujet les rapports de Human Rights Watch de septembre 2014 et octobre 2016.
-
-
-
-23. Charbonneau, Bruno [2017], « Intervention in Mali: building peace between peacekeeping and counterterrorism », Journal of Contemporary African Studies, vol. 35, no 4, pp. 415-31
-
-
-
-
-
 Chapitre V
-
 
 La baudruche de la globalisation
 
-
-
-
-
 France, Paris, début 2013
 
-
 Je suis auditionné dans le cadre d’une mission d’information qui, présidée par Jean-Pierre Chevènement et Gérard Larcher, vise à préparer le vote du Parlement en vue d’autoriser la prolongation de l’intervention des forces françaises au Mali1. Nous nous retrouvons dans un bureau non loin du palais du Luxembourg. Les questions fusent et je mets en garde mes interlocuteurs contre la tentation d’exagérer indûment la portée de la menace djihadiste au Sahel. J’insiste plutôt sur l’importance des dynamiques locales qui expliquent les insurrections dites islamistes dans des pays aussi divers que le Nigeria ou le Mali. Sur le plan opérationnel, l’internationalisation des groupes djihadistes est, pour moi, le scénario le moins probable. C’est néanmoins celui que nos sénateurs retiennent pour justifier la nécessité de poursuivre l’opération Barkhane. Les précautions des chercheurs n’ont visiblement pas l’heur de plaire quand il s’agit de pondérer une analyse par trop globalisante.
-
-
-
-
 
 Quelque part en France,
 
 dans un train, fin 2013
-
 
 L’affaire Moulin-Fournier est encore présente dans bien des esprits. Avant d’être relâchée contre le paiement d’une rançon conséquente, cette famille française avait été enlevée en février 2013 dans le parc naturel de Waza, au nord du Cameroun, et avait été détenue par des hommes de Boko Haram, dont un que j’ai ensuite eu l’occasion d’interviewer à Maiduguri. À présent, l’actualité porte sur le rapt d’un prêtre français, toujours dans la même région, le long de la frontière entre le Nigeria et le Cameroun en direction du lac Tchad. Mon téléphone n’arrête pas de sonner. Le groupe Boko Haram est très mal connu en France et je trouve qu’il est de mon devoir de chercheur d’informer le grand public sur les ressorts de l’insurrection.
 
@@ -1033,12 +465,7 @@ Un certain Thomas Loubière, journaliste au Monde, me téléphone alors que je s
 
 Or, à ma grande surprise, je découvre le lendemain une citation de mes propos selon laquelle Boko Haram aurait prêté allégeance à al-Qaïda. Je n’ai jamais dit cela, et pour cause : c’est complètement faux. Je proteste et obtiendrai que la version en ligne soit corrigée2. Mais je n’échapperai pas à d’autres surprises de ce genre en dépit des promesses de relecture des interviews, par exemple dans un hors-série de l’Obs consacré aux prétendues « guerres de religions » en novembre 2015. Cette fois sans correction possible avant publication : le numéro est déjà parti à l’imprimerie quand je reçois les épreuves alors que je suis à Maiduguri et que j’ai toutes les peines du monde à relever mes mails.
 
-
-
-
-
 Niger, Diffa, début 2015
-
 
 J’arrive à Diffa dans un petit avion à hélices du Programme alimentaire mondial des Nations unies. L’état d’urgence a été déclaré trois semaines auparavant et on estime que 90 % des habitants ont fui les combats contre Boko Haram. Il n’y a pas d’hôtels ouverts, pas plus que de restaurants. À dire vrai, il n’y en a jamais vraiment eu. Frontalière du Nigeria et située à plus d’un millier de kilomètres de la capitale Niamey, la ville est assez petite et la clientèle n’est pas riche. Chaque fois que je suis allé à Diffa, j’ai eu faim, soit parce que les rares cantines du coin étaient fermées pour cause de ramadan, soit, aujourd’hui, parce que les civils sont partis.
 
@@ -1048,20 +475,11 @@ Il fait partie d’un petit contingent d’une quarantaine d’hommes censés as
 
 Je me présente et explique la raison de ma visite dans ce camp. Je suis un chercheur, pas un mercenaire. On me prend aimablement en photo, sans doute pour vérifier mon identité, mais personne ne révèle son nom de famille. Seuls les prénoms sont autorisés. La conversation s’engage avec un homme des forces spéciales. Il opère des missions de reconnaissance du côté nigérian de la frontière et affirme qu’on aurait retrouvé au Sahara, à des milliers de kilomètres de là, des manuels d’instruction militaire en kanouri, la langue des combattants de Boko Haram. C’est tout à fait improbable et, évidemment, il ne produit aucun document à l’appui de ses dires. En réalité, très peu de gens lisent et, encore moins, écrivent le kanouri dans le monde. Le propos vise surtout à démontrer les connexions entre les différents groupes djihadistes de la région, un peu comme si on voulait soutenir que les guérilleros fondamentalistes et prétendument chrétiens de l’Armée de Résistance du Seigneur en Ouganda ou en Centrafrique donnaient désormais leurs ordres en latin.
 
-
-
-
-
 La surdité sélective de certains parlementaires, les distorsions auditives de certains journalistes et les hallucinations linguistiques de certains officiers sont en fait révélatrices d’un problème plus général. Le défi djihadiste au Sahel doit absolument être global pour justifier des interventions militaires et vendre des journaux. Des histoires de va-nu-pieds qui prendraient les armes au nom du Coran ne sont guère audibles. Elles n’intéressent pas grand monde si elles ne sont pas aussitôt connectées à un péril qui touche directement les Français dans l’Hexagone, via al-Qaïda ou Daech. Mieux vaut donc, comme le ministre des Affaires étrangères Jean-Yves Le Drian, affirmer que « les groupes terroristes [du Sahel] représentent une menace globale3 ».
 
 Pour beaucoup de décideurs et d’observateurs, il est évidemment tentant de rattacher toutes les mouvances djihadistes à un tronc commun au prétexte qu’elles se revendiquent d’une approche radicale et violente du Coran. Bien que les situations soient très dissemblables, c’est alors l’Afghanistan qui est invoqué pour comprendre les crises locales en se référant au modèle d’un « arc de crise » qui s’étendrait d’un bout à l’autre de la bande sahélienne, de la Somalie jusqu’à la Mauritanie. En témoigne l’utilisation de néologismes tels que « Sahelistan » ou « Africanistan »4. Dans cette perspective, la menace terroriste est censée venir du Golfe arabo-persique et du Moyen-Orient. Suivant les versions, elle puiserait ses racines profondes dans le wahhabisme saoudien, le chiisme iranien, le deobandisme pakistanais ou le salafisme des Frères musulmans égyptiens.
 
-
-
-
-
 Les décideurs à l’épreuve d’une communication grandiloquente
-
 
 Les inquiétudes des décideurs occidentaux et leur propension à considérer des conflits locaux ou régionaux dans une perspective mondiale viennent en partie de ce que l’Afrique subsaharienne a joué un rôle précurseur. En 1998, les attentats d’al-Qaïda contre les ambassades américaines à Nairobi et Dar es-Salaam avaient en effet annoncé ceux de 2001 à New York. Aujourd’hui, les revers de Daech en Irak et en Syrie font par ailleurs craindre que les combattants de l’organisation État islamique ne cherchent à se réfugier au sud du Sahara. L’immensité d’un désert traversé de nomades insaisissables et fondamentalement rétifs à l’autorité étatique se prête à toutes sortes de fantasmes en la matière. Certains agitent ainsi le spectre d’une cinquième colonne de djihadistes peuls et transhumants, une peur malheureusement relayée par le Parlement européen et des institutions néoconservatrices comme l’Institute for Economics and Peace en Australie5. D’autres supposent pour leur part que, désormais, Daech prêterait plus d’attention à ses affiliés au Mali, autour du lac Tchad et en Somalie afin d’entretenir la réputation de l’organisation État islamique quant à sa capacité à pouvoir frapper n’importe où dans le monde. Selon un argument qui ne se vérifie guère sur le terrain, ces différentes mouvances seraient en train d’aligner leurs stratégies de combat, et pas seulement de communication.
 
@@ -1083,12 +501,7 @@ Le problème est que de telles analyses ne correspondent guère aux réalités l
 
 Au Sahel, le rôle des NTIC dans l’embrigadement djihadiste est d’autant plus dérisoire que les zones touchées par les conflits comptent souvent parmi les moins connectées au monde. Pays le plus peuplé d’Afrique, le Nigeria – où est né Boko Haram – est assez typique à cet égard. D’après des chiffres de 2017, 51 % de la population y ont officiellement accès à Internet. Mais en pratique, moins de 10 % sont en mesure de participer à des réseaux sociaux et la connectivité y est inférieure à trois mégabits par seconde11. Le taux de pénétration de la téléphonie mobile, qui dépasse les 80 %, ne doit pas non plus faire illusion. D’abord, il est surestimé car les utilisateurs doivent acquérir plusieurs cartes Sim pour compenser les défaillances des fournisseurs. De plus, les disparités régionales sont énormes. Plus urbanisé, le Sud est bien mieux couvert qu’au Nord dans les régions rurales et musulmanes où évolue Boko Haram.
 
-
-
-
-
 Au-delà des fantasmes
-
 
 Quoi qu’il en soit du possible alignement de leurs politiques de communication, les connexions globales des djihadistes du Sahel sont en réalité très limitées, notamment sur le plan opérationnel. Historiquement, seuls les groupes les plus anciens de la zone ont effectivement bénéficié d’un appui logistique d’al-Qaïda, en l’occurrence en Afrique de l’Est. Fondé fin 1988, le djihad érythréen a ainsi accueilli des combattants d’outre-mer et des vétérans de la guerre contre l’Armée rouge en Afghanistan, tout en recevant un soutien direct d’Oussama Ben Laden depuis le Soudan voisin, où celui-ci a vécu entre 1992 et 199612. Les islamistes somaliens du groupe al-Itehad (« Union »), qui naquit dans la ville de Hargeisa en 1983, ont aussi bénéficié à la même époque d’un appui d’al-Qaïda.
 
@@ -1104,12 +517,7 @@ Sur le plan idéologique, les errements des Chebab, de Boko Haram ou d’AQMI mo
 
 Le cas de Boko Haram est particulièrement significatif à cet égard. Une fois que le groupe a basculé dans la clandestinité en juillet 2009, son leader Abubakar Shekau a fait exactement l’inverse de ce que lui recommandait AQMI dans une lettre écrite en octobre 201115. À l’époque, les franchisés d’Oussama Ben Laden au Mali mettaient en garde leurs « frères nigérians » contre toute improvisation en matière militaire. AQMI invitait Boko Haram à patienter avant de lancer le djihad. Son conseil : mieux valait se concerter avec d’autres groupes dans le monde afin de frapper ensemble et d’avoir un impact global. Mieux valait aussi consulter les clercs islamiques afin de légitimer le recours à la lutte armée. Avant d’envisager toute attaque, il fallait bâtir une base sociale solide pour convaincre les croyants et gagner les cœurs et les esprits de la population. Au lieu de cela, souligne AQMI, Abubakar Shekau se lança dans des actions de représailles à courte vue, ignora les avis de la choura du fondateur de la secte, interdit à ses fidèles de rejoindre d’autres groupes djihadistes en Somalie ou en Algérie et s’aliéna la population locale en tuant essentiellement des musulmans.
 
-
-
-
-
 Des insurgés sans soutiens étatiques
-
 
 Il convient ainsi de relativiser l’influence des modèles révolutionnaires d’al-Qaïda ou Daech en Afrique subsaharienne. Le contraste est saisissant quand on songe à l’envergure mondiale que les rivalités Est-Ouest donnaient d’emblée à des rébellions sahéliennes dont les connexions régionales s’inséraient dans le grand jeu militaro-diplomatique de la guerre froide. À présent, les insurrections qualifiées de djihadistes ne sont pas soutenues par des États, à la différence des guérillas d’autrefois. À l’occasion, elles bénéficient seulement de la passivité de gouvernements qui ferment les yeux sur leurs activités pour se prémunir de leurs attaques et les contenir dans les pays voisins.
 
@@ -1123,10 +531,6 @@ Indéniablement, les coïncidences et les enchaînements de circonstances ne suf
 
 Le Nigeria, en l’occurrence, est le pays le plus peuplé d’Afrique, bientôt le troisième du monde d’ici à 2050. Il n’y a donc rien d’étonnant à trouver certains de ses ressortissants impliqués dans des trafics de drogue en Amérique latine ou dans de lointains combats djihadistes en Libye ou sur la péninsule arabique. Mais cela ne suffit pas à démontrer qu’ils auraient été envoyés à l’étranger sur ordre de Boko Haram, une nébuleuse elle-même très fragmentée et déstructurée, en l’absence d’un véritable commandement central. Récemment, des experts des Nations unies ont aussi prétendu qu’une faction du groupe affiliée à Daech aurait revendiqué pour la première fois un attentat sur le sol malien, en l’occurrence en avril 2019 près de Ménaka avec l’assassinat de Hadana Ag Hainaha, un commandant militaire d’une milice touarègue alliée au Français, le Mouvement pour le salut de l’Azawad (MSA)19. Là encore, cependant, leurs assertions ont reposé sur des informations « confidentielles » et aucun document public n’est venu étayer leur affirmation sous la forme d’une vidéo ou d’un enregistrement audio. En pratique, il reste très difficile de vérifier les faits et d’en savoir plus sur l’éventualité de la présence de djihadistes venus du Nigeria.
 
-
-
-
-
 Boko Haram, al-Qaïda, Daech et le Mali :
 
 une série de mésalliances
@@ -1135,12 +539,7 @@ Les suppositions sur une implantation de Boko Haram au Mali sont très discutabl
 
 Encerclée par une coalition antiterroriste composée de troupes tchadiennes, nigériennes, nigérianes et camerounaises, une faction de Boko Haram allait finalement prêter allégeance à Daech en mars 2015, allégeance qui fut reconnue par un sbire d’Abou Bakr al-Bagdadi, le calife autoproclamé de l’organisation État islamique. Là encore, cependant, des discordances et des divergences sont vite apparues. En effet, la nébuleuse de Boko Haram dérogeait à l’orthodoxie salafiste et se révélait décidément bien peu obéissante. Les élucubrations d’Abubakar Shekau, dont les hommes avaient enlevé les collégiennes de Chibok en avril 2014, allaient notamment porter préjudice à la crédibilité de la mouvance djihadiste globale. Dans leur document d’avril 2017, les émirs d’AQMI confirmaient ainsi leurs suspicions à l’égard d’un leader perçu comme fantasque et même dangereux pour le mouvement lorsque, sous le coup de l’excitation ou l’emprise des drogues, il risquait de révéler des secrets susceptibles de faciliter la tâche des services secrets nigérians23.
 
-
-
-
-
 Des rebelles incapables de gouverner
-
 
 Parmi tant d’autres, le cas de Boko Haram montre finalement qu’il ne faut pas prendre pour argent comptant la propagande de groupes qui revendiquent des connexions fantaisistes avec le reste du monde afin de se rendre plus importants qu’ils ne sont. Composées en grande partie de va-nu-pieds, les diverses mouvances djihadistes qui sévissent au Sahel n’ont en fait jamais démontré leur capacité à renverser des gouvernements et à gérer des États. À l’exception peut-être des Chebab dans le sud de la Somalie, les insurgés ont juste réussi à attirer quelques segments de la population en proposant un contre-projet de société sur la base d’un islam revisité pour les besoins de la cause. À Tombouctou en 2012, par exemple, AQMI a supprimé les taxes de l’État, distribué de la nourriture aux indigents, financé des mariages religieux, imposé la gratuité des soins à l’hôpital et fourni eau et électricité sans exiger d’être payé. Mais un tel modèle économique n’était absolument pas tenable à terme. Dans la durée, aucun des groupes de la zone n’a su apporter la preuve de sa capacité à gouverner, et pas seulement à tenir des territoires.
 
@@ -1152,127 +551,11 @@ L’establishment salafiste, qui s’empressa de répudier Boko Haram, ne manqua
 
 Chacun à leur manière, les idéologues de l’État islamique et d’al-Qaïda ont ainsi fait preuve d’un certain pragmatisme lorsqu’il leur a fallu composer avec les défis d’une modernité d’inspiration occidentale pour essayer de mettre en pratique une gouvernance de type islamique. À Tombouctou en 2012, le commandement d’AQMI a également invité ses émirs à tempérer leurs ardeurs religieuses pour se concilier les bonnes grâces des habitants. Leur modération ne fut certes pas suffisante pour garder et exercer le pouvoir. Mais la tentative d’accommodement d’AQMI a témoigné d’une forme de réalisme politique qui contraste avec l’intransigeance de Boko Haram après l’exécution extrajudiciaire de son fondateur en 2009. Produites sous la forme de tautologies, les réponses de Mohamed Yusuf à ses détracteurs étaient déjà inconsistantes. Ses successeurs n’ont pas fait mieux et leurs incohérences ont plutôt mis en évidence leur profonde incapacité à gouverner et à s’emparer du pouvoir, quitte à contredire le récit anxiogène des décideurs politiques français et des adeptes de la « théorie des dominos » au Sahel.
 
-
-
-
-
-1. Le rapport peut être consulté en ligne : Chevènement, Jean-Pierre & Larcher, Gérard, Rapport d’information « Mali, comment gagner la paix ? », Paris, Commission des Affaires étrangères du Sénat, avr. 2013, 135 p.
-
-
-
-2. Loubière, Thomas [15 novembre 2013], « Entre le Cameroun et le Nigeria, “une frontière très poreuse” », Le Monde.
-
-
-
-3. Déclaration au conseil de sécurité de l’ONU à New York le 30 octobre 2017, citée par Châtaignier, Jean-Marc [mars 2019], « Sahel et France, enjeux d’une relation particulière », Hérodote, no 172, p. 133.
-
-
-
-4. Laurent, Samuel [2013], Sahelistan, Paris, Seuil, 370 p. ; Michaïlof, Serge [2015], Africanistan : L’Afrique en crise va-t-elle se retrouver dans nos banlieues ?, Paris, Fayard, 320 p.
-
-
-
-5. IEP [2016], Global Terrorism Index, Sydney, Institute for Economics and Peace, 104 p.
-
-
-
-6. Sanneh, Lamin [1997], The crown and the turban : Muslims and West African pluralism, Boulder (Co.), Westview, p. 169.
-
-
-
-7. Williams, Paul [2018], Fighting for Peace in Somalia: A History and Analysis of the African Union Mission (AMISOM), 2007-2017, Oxford, Oxford University Press, pp. 281-4.
-
-
-
-8. Moghadam, Assaf [2017], Nexus of global Jihad : understanding cooperation among terrorist actors, New York, Columbia University Press, 380 p.
-
-
-
-9. Pérouse de Montclos, Marc-Antoine [2018], L’Afrique, nouvelle frontière du djihad ?, Paris, La Découverte, 239 p. ; UNDP [2017], Journey to Extremism in Africa : Drivers, Incentives and the Tipping Point for Recruitment, New York, UNDP, 112 p.
-
-
-
-10. Bonelli, Laurent [2018], La Fabrique de la radicalité, Paris, Éditions du Seuil, p. 22.
-
-
-
-11. Page, Matthew [2017], Nigeria: What Everyone Needs to Know, Oxford, Oxford University Press, p. 165.
-
-
-
-12. Hansen, Stig Jarle, [2019], Horn, Sahel and Rift: Faultlines, of the African Jihad, London, Hurst, p. 56.
-
-
-
-13. Al-Barnawi, Abu Yusuf et al. [2018], Cutting out the tumour from the Khawarij of Shekau by the allegiance pledge of the people of nobility, n.d., Channel of Facts for Media, Translated by Aymenn Jawad Al-Tamimi.
-
-
-
-14. Mendelsohn, Barak [2016], The al-Qaeda Franchise : The Expansion of al-Qaeda and Its Consequences, Oxford, OUP, 274 p.
-
-
-
-15. Brigaglia, Andrea & Iocchi, Alessio [2017], « “Some Advice and Guidelines” : The History of Global Jihad in Nigeria, as Narrated by AQIM (al-Qaeda in the Islamic Maghreb) », Annual Review of islam in Africa, vol. 14, p. 34.
-
-
-
-16. Gèze, François & Mellah, Salima [2007], AQMI ou la Très Étrange Histoire du GSPC algérien, Berlin, Algeria Watch, 72 p. ; Keenan, Jeremy [2009], The Dark Sahara: America’s war on terror in Africa, London, Pluto, 296 p.
-
-
-
-17. Rashid, Sheikh Abu al-Hassan [Avr. 2017], Shari'i pieces of advice and directives to the mujahideen of Nigeria, with an introduction by the Mujahid Sheikh Abu al-Nu'aman Qutaiba al-Shinqiti, n.d., al-Andalus Foundation for Media Production, trad. Aymenn Jawad Al-Tamimi.
-
-
-
-18. Pérouse de Montclos, Marc-Antoine [2015], « Du Nigeria au Maghreb : le chaînon manquant entre Boko Haram et al-Qaïda », Maghreb-Machrek, no 222, pp. 111-22.
-
-
-
-19. Koning (de), Ruben [2019], Rapport final du Groupe d’experts créé en application de la résolution 2374 (2017) du Conseil de sécurité sur le Mali et reconduit par la résolution 2432 (2018), New York, Nations unies, p. 29.
-
-
-
-20. Rashid, Sheikh Abu al-Hassan [avr. 2017], Shari'i pieces of advice and directives to the mujahideen of Nigeria, with an introduction by the Mujahid Sheikh Abu al-Nu'aman Qutaiba al-Shinqiti, n.d., al-Andalus Foundation for Media Production, trad. Aymenn Jawad Al-Tamimi.
-
-
-
-21. Al-Barnawi, Abu Yusuf et al. [2018], Cutting out the tumour from the Khawarij of Shekau by the allegiance pledge of the people of nobility, n.d., Channel of Facts for Media, trad. Aymenn Jawad Al-Tamimi. Accès : http://www.aymennjawad.org/21467/the-islamic-state-west-africa-province-vs-abu
-
-
-
-22. Higazi, Adam, Brandon Kendhammer, Kyari Mohammed, Marc-Antoine Pérouse de Montclos et Alex Thurston, « A Response to Jacob Zenn on Boko Haram and al-Qa’ida », Perspectives on Terrorism, vol. 12, no 2, avr. 2018, pp. 203-13.
-
-
-
-23. Rashid, Sheikh Abu al-Hassan [avr. 2017], Shari'i pieces of advice and directives to the mujahideen of Nigeria, with an introduction by the Mujahid Sheikh Abu al-Nu'aman Qutaiba al-Shinqiti, n.d., al-Andalus Foundation for Media Production, trad. Aymenn Jawad Al-Tamimi.
-
-
-
-24. Byman, Daniel [2008], The five front war : the better way to fight global jihad, Hoboken (N.J.), John Wiley & Sons, p. 24.
-
-
-
-25. Al-Barnawi, Abu Yusuf et al. [2018], Cutting out the tumour from the Khawarij of Shekau by the allegiance pledge of the people of nobility, n.d., Channel of Facts for Media, Translated by Aymenn Jawad Al-Tamimi. http://www.aymennjawad.org/21467/the-islamic-state-west-africa-province-vs-abu
-
-
-
-26. Ce dernier avait ainsi tué un cheikh de la choura du groupe, Abu al-Abbas Baba Gana Bulashiri, qui était originaire de la localité de Banki, sur la frontière du Cameroun, et qui avait autorisé les fidèles de la secte à porter des cartes d’identité pour pouvoir circuler dans la région. Abubakar Shekau n’a d’ailleurs pas pris la peine de répondre aux critiques de l’État islamique.
-
-
-
-
-
 Chapitre VI
-
 
 L’obsession religieuse
 
-
-
-
-
 Mali, Djenné, mi-2010
-
 
 Djenné, c’est l’Afrique comme on l’aime : paisible, avec des couleurs qu’aucune carte postale ne pourra jamais restituer, ocre, rouge, jaune. La localité est surtout connue pour sa mosquée, classée au patrimoine mondial de l’humanité… et entièrement reconstruite par le colonisateur français en 1907. Le bâtiment en banco est strié de torons, des poutres de palmier rônier qui servent d’échafaudage pour refaire chaque année le crépi des murs. En principe, la mosquée est fermée aux infidèles mais on peut toujours donner un bakchich au gardien pour aller y chercher de l’ombre et y admirer les nombreux piliers de la salle de prière.
 
@@ -1280,23 +563,13 @@ Mon « guide », Ibrahim Touré (le prénom et le nom ont été modifiés), m’
 
 Djenné est à 563 km de Bamako, une bonne journée de voiture, et à 171 km de Konna, la localité dont les djihadistes du Septentrion malien allaient s’emparer en janvier 2013, déclenchant la plus grosse opération militaire de la France depuis la guerre d’Algérie. Mais que tout ça semble loin : la fureur guerrière des rebelles touaregs, les trafics de drogue transsahariens, la contrebande d’armes en provenance de Libye, l’implantation d’al-Qaïda au Maghreb islamique. Djenné, c’est l’antithèse du djihadisme : le « bon » islam, tolérant et pluriel, ancré dans des traditions multiséculaires.
 
-
-
-
-
 France, Paris, début 2017
-
 
 La DGSE (Direction générale de la Sécurité extérieure) s’ouvre au monde de la recherche. Elle a décidé d’organiser un colloque sur « l’islam d’Afrique face à la montée des radicalismes ». La conférence se tient à la Maison de la Chimie, un bel hôtel particulier à deux pas des ministères et des centres du pouvoir exécutif à Paris. L’œil alerte et l’oreillette branchée comme preuve de leur professionnalisme, des hommes tout habillés de noir vérifient l’identité des invités, qui ont été dûment triés sur le volet. Une fois franchis les barrages de sécurité, il y a du champagne et des petits-fours. Voilà qui me change de nos habituelles conférences académiques où le chercheur doit s’estimer heureux quand l’administration française accepte de bien vouloir financer un peu de café froid et quelques biscuits secs.
 
 Une autre surprise m’attend à l’intérieur du bâtiment. La plupart des conférenciers africains sont en fait des sympathisants soufis. L’un d’entre eux va même jusqu’à projeter une vidéo truquée et vraisemblablement montée par les services secrets nigérians pour justifier l’incarcération sans procès d’un leader chiite tenu au secret pour une durée indéterminée, malgré l’absence de charges et les injonctions à répétition de la Cour Suprême en vue d’obtenir sa libération. Comme de bien entendu, les soufis haïssent les salafistes. Ces derniers le leur rendent bien en critiquant leur corruption et leur collusion avec des pouvoirs autoritaires. Les soufis disent donc pis que pendre de leurs rivaux, qui sont accusés d’être des terroristes en puissance. Les points de vue ne sont guère équilibrés. Chercher à comprendre les subtilités de l’islam en Afrique en écoutant seulement des soufis, c’est un peu comme essayer d’analyser le conflit israélo-palestinien en ne donnant la parole qu’aux sionistes. Visiblement, la DGSE a encore beaucoup à apprendre en matière de théologie islamique.
 
-
-
-
-
 Le spectre du salafisme
-
 
 La question est d’abord de savoir si le fanatisme et l’endoctrinement religieux seraient vraiment à l’origine des insurrections qui ravagent aujourd’hui le Sahel. Beaucoup d’observateurs voient dans le salafisme la cause de tous les troubles de la région.
 
@@ -1322,12 +595,7 @@ Dans tous les cas, il serait absurde de supposer que la lecture d’un pamphlet 
 
 Certes, les spécialistes pourront toujours arguer qu’il n’y a pas de djihadistes sans théorie du djihad3. Ce à quoi on leur objectera qu’il peut parfaitement y avoir une théorie du djihad sans djihad. La question dépasse en fait le débat sur la « radicalisation de l’islam ». On la retrouve sous d’autres formes à propos, par exemple, de la portée des idéologies dans la production de génocides en Allemagne pendant la Seconde Guerre mondiale ou au Rwanda en 1994. Loin d’être purement académique, le débat a d’évidentes conséquences pratiques. En admettant que les violences de masses résultent aussi d’un concours de circonstances, et pas seulement d’idéologies mortifères, la question est en effet de savoir si une gestion plus fine des tensions pourrait permettre d’éviter le désastre.
 
-
-
-
-
 Boko Haram : une violence idéologiquement programmée ?
-
 
 À cet égard, le cas de Boko Haram est significatif car il symbolise bien la façon dont la réaction de l’État nigérian a fait dégénérer la situation. Comme on l’a vu dans le chapitre II, les abus de la police lors de funérailles de membres de la secte ont en l’occurrence incité le fondateur de la secte, Mohamed Yusuf, à proclamer le djihad en 2009. Les exécutions extrajudiciaires et la brutalité de la répression militaire ont ensuite précipité la radicalisation du groupe qui, une fois rentré dans la clandestinité, a basculé dans la violence terroriste. Pour analyser l’impact des idéologies extrémistes, la question serait donc de savoir si une meilleure gestion de la crise aurait permis d’éviter le pire ou bien si la violence terroriste était inéluctable : programmée, en quelque sorte, par le fanatisme religieux.
 
@@ -1339,12 +607,7 @@ Pour justifier l’option de la lutte armée, l’État islamique a aussi cherch
 
 Avant que la crise n’éclate en 2009, les prêches de Boko Haram ont également appelé les fidèles à résister spirituellement et physiquement à l’impiété du pouvoir politique, à l’ostracisme de l’establishment musulman et aux brutalités policières. Le fondateur de la secte, Mohamed Yusuf, ne préconisait cependant pas d’attaquer directement les représentants de l’État, à la différence d’éléments extrémistes connus sous le nom de « Talibans du Nigeria ». Peu nombreux et plus ouverts à des idéologies djihadistes globales, ceux-ci avaient commencé dès 2003-2004 à attaquer des postes de police dans des régions frontalières du Niger et du Cameroun. Poursuivis par l’armée, ils avaient ensuite dû se réfugier à Maiduguri, où ils s’étaient rapprochés du prêcheur le plus vindicatif de la ville, Mohamed Yusuf. Mais ce dernier était davantage porté au compromis. Il avait cherché à négocier avec les autorités une application plus radicale de la charia et avait conclu des arrangements politiques avec le gouverneur à l’époque au pouvoir dans l’État du Borno. Les témoignages de l’époque rapportent ainsi qu’en dépit de la vigueur de ses prêches, Mohamed Yusuf faisait partie des « colombes » qui cherchèrent à tempérer l’ardeur guerrière des « faucons » issus des rangs des « Talibans du Nigeria »5.
 
-
-
-
-
 De la diversité des facteurs de recrutement dans le djihad
-
 
 D’une manière générale au Sahel, les enquêtes disponibles sur la trajectoire des combattants qualifiés de djihadistes invitent en fait à relativiser le rôle déterminant que les décideurs politiques veulent assigner à des idéologies extrémistes. Parmi la soixantaine de membres supposés de Boko Haram que j’ai pu rencontrer en liberté ou en prison au Nigeria, au Niger et au Tchad entre 2010 et 2017, par exemple, seulement un disait avoir rejoint le groupe en écoutant les prêches du fondateur de la secte, c’est-à-dire avant que le mouvement ne rentre dans la clandestinité suite aux massacres de l’armée et de la police nigérianes en 2009. De même en Somalie, un seul des 129 Chebab interviewés dans un « centre de dé-radicalisation » de Mogadiscio en 2018 citait des raisons religieuses pour expliquer son ralliement aux insurgés, en l’occurrence après avoir adhéré au discours nationaliste des imams opposés à l’invasion éthiopienne de 20066. Dans la plupart des cas, les combattants du groupe étaient surtout motivés par un sentiment de discrimination économique et politique à l’égard de leur communauté7. Des enquêtes menées au Mali en 2016 auprès de 63 anciens djihadistes confirmaient également que le motif religieux avait occupé une place marginale dans la mobilisation des fantassins au sein d’AQMI et de ses diverses « succursales »8.
 
@@ -1352,12 +615,7 @@ Bien entendu, on pourra toujours arguer que ces échantillons sont trop ténus p
 
 À sa manière, le djihad exprime aussi la révolte des jeunes contre le pouvoir et l’immobilisme des Anciens. L’accès aux femmes a joué un rôle non négligeable à cet égard. En effet, les salafistes ont condamné le syncrétisme des cérémonies traditionnelles et le coût de la dot africaine, dénoncée comme une coutume préislamique. Ils ont ainsi permis aux jeunes d’avancer l’âge du mariage en échappant aux pesanteurs familiales et aux prescriptions des Anciens. On a retrouvé ce phénomène dans les rangs de Boko Haram au Nigeria aussi bien que des Chebab en Somalie10. De même dans le nord du Burkina Faso, les prêches de Malam Ibrahim Dicko et du groupe Ansarul Islam ont attiré les jeunes en dénonçant l’ostentation et le fardeau financier de mariages traditionnels qui, en brousse, pouvaient coûter jusqu’à dix fois plus que le salaire minimum mensuel en ville11.
 
-
-
-
-
 Iyad Ag Ghali : un cas d’islamisation de la radicalité au Mali
-
 
 La variété des motifs d’entrée dans une rébellion djihadiste oblige ainsi à reconsidérer l’impact de la variable religieuse. Dans le nord du Mali, par exemple, on a assisté à une sorte d’islamisation de la radicalité plutôt qu’à une radicalisation de l’islam. La jonction entre les rébellions touarègues et les insurrections de type djihadiste est très révélatrice à cet égard. Elle est particulièrement bien illustrée par la trajectoire d’Iyad Ag Ghali, aujourd’hui ennemi public numéro un de l’armée française en tant que leader du « Groupe pour la victoire de l’islam et des musulmans » (Jamaat Nusrah al-Islam wal-Muslimin).
 
@@ -1365,12 +623,7 @@ Issu de la noblesse du clan des Ifoghas et fils d’un chef mort lors de la prem
 
 D’aucuns estiment ainsi que son parcours a été très pragmatique, voire opportuniste, adoptant les idéologies du moment suivant les besoins de sa cause. Dans le même ordre d’idée, certains observateurs soulignent que les Peuls du nord du Mali ont commencé à rejoindre le Mujao (Mouvement pour l’unicité et le djihad en Afrique de l’Ouest) pour protéger leurs troupeaux et échapper aux exactions des Touaregs du MNLA en 2012, et non pas parce qu’ils auraient été fanatisés par des imams radicaux. Des considérations d’ordre matériel et non spirituel ont également poussé de simples éleveurs à rallier la katiba du Macina dans le centre du Mali ou le groupe Ansarul Islam dans la région du Liptako-Gourma au Burkina Faso.
 
-
-
-
-
 Des inconvénients pratiques de l’obsession religieuse
-
 
 Les modalités de recrutement des combattants dits djihadistes obligent alors à revenir sur les inconvénients pratiques d’une lecture par trop religieuse des dynamiques insurrectionnelles à travers le Sahel. L’obsession des décideurs politiques et des militaires français quant à la puissance d’attraction et d’endoctrinement du salafisme a en effet conduit à privilégier un traitement du problème en termes de « prévention des violences extrémistes » et de « dé-radicalisation » des esprits. Consacrées par les spécialistes de l’antiterrorisme, ces expressions sont censées fournir des solutions aux deux extrémités des crises, avant et après les hostilités. Le problème est qu’elles barrent la route aux options alternatives, quitte à reproduire les travers de l’usage abusif du mot « terrorisme ».
 
@@ -1386,91 +639,11 @@ En attendant, ce ne sont pas les politiques de dé-radicalisation qui, en Afriqu
 
 Au sein de la nébuleuse djihadiste, les conflits entre « peaux noires » et « teints clairs » ont également provoqué des dissensions. En témoignent la dissidence des Mauritaniens du MUJAO par rapport aux Algériens d’AQMI en 2011 ou le schisme en 2012 de Boko Haram entre la faction internationaliste d’Ansaru, proche d’al-Qaïda, et la mouvance locale d’Abubakar Shekau, héritière d’une secte recrutant surtout en pays kanouri dans le Borno. De ce point de vue, il apparaît que les rivalités internes aux mouvements insurrectionnels peuvent constituer un moyen efficace d’enrayer leur capacité d’action. Les djihadistes n’hésitent pas à s’entre-tuer lorsqu’ils sont en désaccord sur des questions de stratégies, d’objectifs, de commandements ou de théologies prohibant l’assassinat de civils musulmans. Encore faudrait-il que les alliés de la France au Sahel sachent mieux exploiter ces divisions, plutôt que de succomber aux sirènes et aux financements européens ou américains des programmes de « dé-radicalisation ».
 
-
-
-
-
-1. Mohammed, Kyari [2014], « The Message and Methods of Boko Haram », in Pérouse de Montclos, Marc-Antoine (dir.) [2014], Boko Haram: Islamism, Politics, Security, and the State in Nigeria, Ibadan, IFRA-Nigeria, Leiden, African Studies Centre, p. 19.
-
-
-
-2. Maher, Shiraz [2016], Salafi-jihadism : the history of an idea, Oxford, Oxford University Press, pp. 50 & 57.
-
-
-
-3. Ould Ahmed Salem, Zekeria [2013], Prêcher dans le désert : islam politique et changement social en Mauritanie, Paris, Karthala, p. 183.
-
-
-
-4. Al-Barnawi, Abu Yusuf et al. [2018], Cutting out the tumour from the Khawarij of Shekau by the allegiance pledge of the people of nobility, n.d., Channel of Facts for Media. Accès : http://www.aymennjawad.org/21467/the-islamic-state-west-africa-province-vs-abu
-
-
-
-5. Ogori, Abdul Kareem [18 déc. 2010], « Return of the Boko Haram », Politico, pp. 11-16.
-
-
-
-6. Khalil, James, Rory Brown, Chris Chant, Peter Olowo & Wood, Nick [2019], Deradicalisation and Disengagement in Somalia: Evidence from a Rehabilitation Programme for Former Members of Al-Shabaab, London, RUSI, p. 15.
-
-
-
-7. Ingiriis, Mohamed Haji [2018], « Building peace from the margins in Somalia: The case for political settlement with Al-Shabaab », Contemporary Security Policy, vol. 39, no 4, p. 518.
-
-
-
-8. Theroux-Benoni, Lori-Anne et al. [2016], Jeunes « djihadistes » au Mali : Guidés par la foi ou par les circonstances ?, Dakar, Institut d’études de sécurité, Note d’analyse no 89.
-
-
-
-9. UNDP [2017], Journey to Extremism in Africa : Drivers, Incentives and the Tipping Point for Recruitment, New York, UNDP, 112 p.
-
-
-
-10. Pérouse de Montclos, Marc-Antoine [2016], « A sectarian Jihad in Nigeria: the case of Boko Haram », Small Wars & Insurgencies, vol. 27, no 5, pp. 878-95 ; Khalil, James, Rory Brown, Chris Chant, Peter Olowo & Wood, Nick [2019], Deradicalisation and Disengagement in Somalia: Evidence from a Rehabilitation Programme for Former Members of Al-Shabaab, London, RUSI, 40 p.
-
-
-
-11. ICG [2017], Nord du Burkina Faso : ce que cache le jihad, Brussels, International Crisis Group, 21 p.
-
-
-
-12. Touchard, Laurent, Baba Ahmed & Chérif Ouazani [2 octobre 2012], « Iyad Ag Ghali, rebelle dans l’âme », Jeune Afrique ; Gonin, Jean-Marc [26 janvier 2013], « Iyad Ag Ghali, le djihadiste touareg », Le Figaro.
-
-
-
-13. Coolsaet, Rik [2019], « Radicalization: The Origins and Limits of a Contested Concept », in Fadil, Nadia, de Koning, Martijn & Ragazzi, Francesco (dir.), Radicalization in Belgium and the Netherlands, London, Tauris, p. 41.
-
-
-
-14. Neumann, Peter & Scott Kleinmann [2013], « How Rigorous is Radicalisation Research? », Democracy and Security, vol. 9, no 4, p. 360-382.
-
-
-
-15. Silke, Andrew [2008], « Holy warriors: exploring the psychological processes of jihadi radicalization », European Journal of Criminology, vol. 5, no 1, pp. 99-123.
-
-
-
-16. Pérouse de Montclos, Marc-Antoine (dir.) [2014], Nigeria’s Interminable Insurgency? Addressing the Boko Haram Crisis, London, Chatham House, Research Paper, p. 18 ; Kassim, Abdulbasit & Michael Nwankpa (dir.) [2018], The Boko Haram Reader : From Nigerian Preachers to the Islamic State, London, Hurst, p. 306.
-
-
-
-17. ICG [2019], Speaking with the « Bad Guys »: Toward Dialogue with Central Mali’s Jihadists, Brussels, International Crisis Group, p. 12.
-
-
-
-
-
 Chapitre VII
-
 
 Prévention et dé-radicalisation
 
-
-
-
-
 Tchad, région de Bol, mi-2017
-
 
 Nous errons en brousse aux abords du lac Tchad, quelque part entre Baga Sola et Bol. La nuit ne va pas tarder à tomber et il nous reste peu de temps pour aller à la rencontre des « revenants » de Boko Haram, ces « personnes en situation de reddition », comme disent les humanitaires. On m’a dit pouvoir les trouver dans le camp de Koulkoumé III. Il n’y a pas de GPS pour localiser l’endroit, pas plus évidemment que d’indications ou de panneaux de signalisation. Les dunes sont sablonneuses mais le terrain reste suffisamment dur pour que notre Land Cruiser puisse les franchir sans trop de difficultés. De temps en temps, on aperçoit des gazelles. C’est presque beau, même si le lac, peu profond, ne paie pas de mine.
 
@@ -1480,12 +653,7 @@ Ils ont en l’occurrence été désarmés quand ils sont arrivés sur l’île 
 
 Au bout de six mois, Dimouya Souapebe a finalement décidé de relâcher les anciens combattants de Boko Haram. Il n’y eut pas de procès, pas de programmes de dé-radicalisation, pas de tentatives de rééducation de gens qui n’avaient en fait jamais été endoctrinés. Les « revenants » boudouma de Boko Haram sont simplement repartis aux abords du lac en espérant qu’on leur donnerait des bateaux pour pouvoir recommencer à pêcher.
 
-
-
-
-
 Maroc, Marrakech, début 2018
-
 
 L’imam « Abou Hafs » est relativement connu au Maroc. Mohammed Abdelwahab Rafiqi de son vrai nom, il a été accusé d’avoir cautionné les attentats terroristes les plus meurtriers du pays, qui visaient des lieux touristiques à Casablanca en 2003. Au total, il a passé neuf bonnes années en prison, où il a opéré une profonde transformation intérieure et mentale. En 2010, il rejetait publiquement l’usage de la violence ; en 2012, il était finalement gracié par le roi Mohammed VI. À sa sortie de prison, « Abou Hafs », redevenu Mohammed Abdelwahab Rafiqi, a ensuite rejoint une petite formation, Renaissance et Vertu, qui accueillait d’anciens détenus salafistes et qui venait de quitter le giron du parti islamiste Justice et Développement. Il s’est proposé de lutter contre les extrémismes religieux et s’est progressivement mué en imam libéral, aujourd’hui décrié par ses amis d’autrefois parce qu’il préconise de partager les héritages à égalité entre femmes et hommes.
 
@@ -1495,12 +663,7 @@ De retour au Maroc, « Abou Hafs » s’installe à Fès et commence à prêcher
 
 Les attentats de Casablanca ont en l’occurrence fait 43 morts, dont trois Français et deux Espagnols. Ils ont choqué la société marocaine et provoqué une vague de répression contre les milieux fondamentalistes. « Abou Hafs » a beau proclamer son innocence, il écope d’une peine de trente ans : une erreur judiciaire, comme le gouvernement le reconnaîtra bien plus tard. Placé en détention à Casablanca et à Rabat, puis en cellule individuelle à Fès, il se met à lire beaucoup. « Ce n’était pas facile, explique-t-il. J’ai entamé des grèves de la faim pour avoir la permission de faire entrer des livres. Neuf ans, dont sept dans une cellule individuelle, et rien d’autre à faire que de lire, jour et nuit ! Certes, il y avait deux promenades par jour avec les autres détenus, une le matin et une le soir. Mais après, quand les gardiens refermaient la porte de ma cellule, je me retrouvais tout seul. Et moi, comme j’aime beaucoup lire la nuit et que je n’arrivais pas à dormir, je manquais souvent la promenade du matin. C’est le soir que je partageais mes réflexions nocturnes avec les autres prisonniers. Je leur donnais les livres que j’avais fini de lire. Beaucoup de détenus se sont dé-radicalisés grâce à moi. Même des vrais terroristes : des gens qui avaient commis des actes violents. »
 
-
-
-
-
 Un placebo plutôt qu’un vaccin
-
 
 L’expérience de « Abou Hafs » est intéressante. Pour autant, peut-on supposer que sa démarche serait efficace au Sahel, de l’autre côté du Sahara ? C’est loin d’être évident. Les entretiens menés avec des combattants djihadistes en Afrique subsaharienne montrent en effet que la vengeance, l’appât du gain, le sentiment de persécution et la répression militaire jouent un rôle plus important que le fanatisme religieux pour expliquer le recrutement de jeunes dans des mouvements de lutte armée. Lorsqu’il vantait les mérites de la dé-radicalisation, Abou Hafs pensait en fait aux anciennes générations de djihadistes arabes, celles qui avaient combattu l’Armée rouge en Afghanistan et qui étaient très idéologisées. « Avant, dit-il, on ne pouvait pas prétendre être un djihadiste sans avoir lu des dizaines de livres. Mais la nouvelle génération est très différente. Même Daech à présent : la plupart de ses militants n’ont lu aucun livre religieux. Visiblement, ils ne connaissent rien de l’exégèse du Coran. C’est aussi pour ça que la dé-radicalisation n’est pas une solution suffisante. »
 
@@ -1520,12 +683,7 @@ Dans tous les cas, le nombre de personnes censées avoir été dé-radicalisées
 
 Certes, les procédures de désengagement touchent davantage de gens quand elles se déroulent en milieu ouvert. Des « caravanes de la paix » circulent alors dans les villages en conviant les habitants à jurer publiquement qu’ils ne soutiennent pas les djihadistes et que leurs enfants n’ont pas rejoint les rangs des insurgés, par exemple dans la région de Diffa au Niger après la proclamation d’un état d’urgence en février 2015. Dans le nord du Cameroun en mai 2018, les autorités ont ainsi lancé une campagne au cours de laquelle les « désengagés », ou les « revenants », devaient prêter serment sur le Coran pour confirmer qu’ils ne faisaient plus partie de Boko Haram. Mais ces efforts ne résolvent pas tous les problèmes. Au Nigeria, par exemple, on peut toujours essayer de soudoyer un cadi pour qu’il rende un verdict en votre faveur. Afin d’éviter le parjure, une copie d’un « faux Coran » est alors remise entre les mains du témoin assermenté, après avoir pris soin d’en arracher quelques pages pour désacraliser le livre de la révélation prophétique6 !
 
-
-
-
-
 De la prévention en guise de guerre psychologique
-
 
 Qu’à cela ne tienne, rétorquent les spécialistes de l’antiterrorisme qui croient à la toute-puissance de l’endoctrinement religieux. Il reste la guerre psychologique d’antan, celle des stratégies contre-insurrectionnelles qui, autrefois, proposaient de développer un discours alternatif au marxisme ; aujourd’hui, à la contestation salafiste. Pour faire un peu moderne, on parle désormais de PVE (Prévention de la violence extrémiste) en français ou de CVE (Countering Violent Extremism) dans le langage technocratique des experts anglo-saxons.
 
@@ -1545,10 +703,6 @@ Autrement dit, n’importe qui peut s’improviser maître coranique ou prédica
 
 Plusieurs raisons expliquent une pareille inaction de la part des États sahéliens : l’impuissance des pouvoirs publics, bien sûr, mais aussi une certaine forme d’indifférence, voire de complaisance suite à des arrangements politiques au niveau local [voir l’encadré]. Le problème demeure que l’absence d’autorité régulatrice et reconnue comme neutre est en soi source de tensions. Lors de violences interreligieuses à Kafanchan dans le sud de l’État de Kaduna au Nigeria en 1987, par exemple, tant les musulmans que les chrétiens ont accusé les pouvoirs publics de jouer en leur défaveur car le gouvernement n’avait pas cherché à arrêter les prêcheurs islamistes ou évangélistes qui avaient incité leurs ouailles à partir au combat.
 
-
-
-
-
 Le Nigeria et la lutte contre les extrémismes sectaires et islamistes
 
 Au Nigeria, les leaders des sectes Maitatsine et Boko Haram, Muhammadu Marwa et Mohamed Yusuf, ont été arrêtés plusieurs fois pour prédications illégales, incitations à la haine et troubles de l’ordre public avant que n’éclatent les émeutes qui devaient faire des milliers de morts à Kano en décembre 1980 et Maiduguri en juillet 2009. Mais les interventions plus ou moins préventives de l’État ont à chaque fois été contrecarrées par des règlements de compte au sein des pouvoirs en place. Expulsé une première fois en 1962, puis emprisonné par les militaires en décembre 1966 et septembre 1973, le « prophète » Muhammadu Marwa a ainsi pu revenir triomphalement parmi ses fidèles à Kano grâce à l’entremise de groupes salafistes et modernistes qui voulaient l’utiliser pour diminuer l’influence de leurs ennemis traditionalistes soufis, tout en récusant son interprétation radicale et obscurantiste du Coran.
@@ -1559,12 +713,7 @@ Dans la région du Borno, les soufis expriment la même frustration à propos de
 
 L’élève, en l’occurrence, finit par devenir plus radical que le maître et il commandita vraisemblablement son assassinat en 2007 pour s’affranchir de la tutelle des « salafistes légalistes » et fonder sa propre congrégation, surnommée Boko Haram. Profitant du départ des fondamentalistes de Maiduguri qui avaient obtenu des bourses pour aller étudier à l’Université islamique de Médine en Arabie saoudite, Mohamed Yusuf s’imposa bientôt sur la scène publique tout en négociant une application plus stricte de la charia avec le gouverneur du Borno élu en 2003, Ali Modu Sheriff. Bien que plusieurs fois emprisonné par les services de sécurité, le fondateur de Boko Haram a ainsi bénéficié dans un premier temps de la protection des autorités locales, avant de se brouiller avec elles et d’appeler au djihad en 2009.
 
-
-
-
-
 Des leçons à tirer des échecs
-
 
 Les leçons à en tirer sont multiples lorsqu’il s’agit de prévenir les extrémismes religieux au Sahel. D’abord, l’inaction ou l’ingérence de l’État en la matière ne signalent pas seulement son impuissance ou, au contraire, son autoritarisme. Bien souvent, elles témoignent plutôt de la politisation du champ religieux. Au Nigeria, par exemple, l’establishment musulman a profité de l’insurrection de la secte Maitatsine en 1980 pour essayer de renforcer sa fonction de contrôle sur le contenu des prédications et la diffusion des normes islamiques. Paradoxalement, les héritiers des djihads peuls et soufis du xixe siècle confirmèrent ainsi leurs velléités à être considérés comme les meilleurs garants de la laïcité et de l’ordre public14. Ils ne continuèrent pas moins d’être contestés, en l’occurrence par les fondamentalistes. Après 2009, la diabolisation « terroriste » de Boko Haram leur permit alors de reprendre la main sur le domaine religieux, cette fois en unissant leurs forces face à l’ennemi commun, quitte à se rapprocher des salafistes « légalistes » dans la lignée d’Abubakar Gumi et de Jafar Mahmud Adam.
 
@@ -1578,83 +727,11 @@ Aujourd’hui, la PVE constitue en fait un formidable outil de propagande pour u
 
 Dans tous les cas, les mesures prises en Afrique subsaharienne ont été très diversement appliquées. Comme toujours au Sahel, la mise en œuvre de politiques publiques bute immanquablement sur la question de la faiblesse des États. De plus, « les ingérences théologiques » des spécialistes de la sécurité présentent le risque d’entériner l’idée que les Occidentaux et leurs alliés africains seraient des ennemis de l’islam. Au Mali en 2009, les manifestations populaires contre une tentative de réforme libérale du code de la famille avaient déjà signalé le rejet d’intrusions perçues comme une menace d’origine étrangère et pas seulement une atteinte à des valeurs religieuses. Aujourd’hui, la fermeture de radios islamiques, la censure des prêches les plus sectaires ou l’interdiction de construire des mosquées sans l’autorisation de l’État sont autant de mesures qui peuvent être interprétées comme un grand complot occidental et laïc contre la communauté des croyants musulmans, la oumma. Dans un tel contexte, on ne peut que continuer à s’interroger sur les mérites des programmes de dé-radicalisation et de PVE.
 
-
-
-
-
-1. Si l’on en croit la version de l’État islamique, le premier aurait été tué par les « talibans » de la localité de Kanama et le second par les hommes du « canal historique » de la secte Boko Haram. Cf. Al-Barnawi, Abu Yusuf et al. [2018], Cutting out the tumour from the Khawarij of Shekau by the allegiance pledge of the people of nobility, n.d., Channel of Facts for Media, trad. Aymenn Jawad Al-Tamimi. Accès : http://www.aymennjawad.org/21467/the-islamic-state-west-africa-province-vs-abu
-
-
-
-2. Kassim, Abdulbasit & Michael Nwankpa (dir.) [2018], The Boko Haram Reader : From Nigerian Preachers to the Islamic State, London, Hurst, p. 216, 218 & 422.
-
-
-
-3. Vers 1830, le futur leader peul de l’Empire toucouleur au Sénégal, al-Hadj Oumar Tal, devait ainsi écrire un mémoire « sur la laideur de la discorde entre les croyants ». Trente ans plus tard, il allait cependant se renier et attaquer les musulmans du Macina malien en prétextant qu’ils avaient fait alliance avec des Bambara païens. Cf. Triaud, Jean-Louis [janv. 2018], « Autour des manuscrits de Tombouctou. Un état des lieux », Sociétés politiques comparées, no 44, p. 8.
-
-
-
-4. Khalil, James, Rory Brown, Chris Chant, Peter Olowo & Nick, Wood [2019], Deradicalisation and Disengagement in Somalia: Evidence from a Rehabilitation Programme for Former Members of Al-Shabaab, London, RUSI, 40 p.
-
-
-
-5. Pérouse de Montclos, Marc-Antoine [Mars 2018], « “The only good jihadist is a dead jihadist”: Boko Haram and de-radicalization around Lake Chad », Small Wars & Insurgencies, vol. 29, no 5, pp. 863-885.
-
-
-
-6. Last, Murray [mai-août 2017], « The Shari’a in context. People’s quest for justice today and the role of courts in pre- and early-colonial northern Nigeria », Sociétés politiques comparées, no 42, 17 p.
-
-
-
-7. DIN [2016], The « Boko » Question, Prohibition or Obligation : Counter-Narratives to Common Religious Arguments against Conventional « Western » Education, Minna, Da’wah Institute of Nigeria, 106 p.; Da’wah Coordination Council of Nigeria [2009], The « Boko Haram » Tragedy : Responses to 26 of the most commonly asked questions regarding the « Boko Haram » crisis and tragedy, Minna, DCCN, 29 p.
-
-
-
-8. Dès 1957 au Mali, un décret prévoyait d’enregistrer toutes les écoles coraniques afin de leur délivrer des autorisations d’enseignement en bonne et due forme. Au Nigeria dans l’État de Kaduna, pour reprendre cet exemple, un décret de 1984, amendé en 1987 puis 1996, introduisait quant à lui des amendes ou des peines de deux ans de prison pour les prédicateurs qui officiaient en plein air sans licence. En 1987, après des violences interreligieuses, le gouverneur militaire de la place musclait le dispositif, excluait la possibilité de payer des amendes et étendait les sanctions au pénal avec des condamnations à des peines allant jusqu’à cinq ans de prison.
-
-
-
-9. Brigaglia, Andrea [2019], « The “Popular Discourses of Salafi Counter-Radicalism in Nigeria” Revisited: A Response to Abdullahi Lamido’s Review of Alexander Thurston, Boko Haram », Cape Town, Center for Contemporary Islam, Occasional Papers, no 2, p. 19.
-
-
-
-10. ICG [2017], The Politics of Islam in Mali: Separating Myth from Reality, Brussels, International Crisis Group, p. 13.
-
-
-
-11. Sanneh, Lamin [1997], The crown and the turban : Muslims and West African pluralism, Boulder (Co.), Westview, p. 153.
-
-
-
-12. Anwar, Auwalu [juin 2015], « The Origin and Development of Gardanci Tradition in Northern Nigeria, up to 1975 », Arewa House Journal, vol. 3, no 3, p. 25.
-
-
-
-13. Thurston, Alex [2017], Boko Haram : The History of an Africanist Jihadist Movement, Princeton, Princeton University Press, 333 p. ; Pérouse de Montclos, Marc-Antoine [2012], « Boko Haram et le terrorisme islamiste au Nigeria : insurrection religieuse, contestation politique ou protestation sociale ? », Paris, Centre d’études et de recherches internationales, Question de Recherche, no 40, 33 p.
-
-
-
-14. Nicolas, Guy [oct. 1984], « Métamorphose de l’Islam nigérian, deuxième partie », Le Mois en Afrique, nos 225-6, p. 141.
-
-
-
-15. Nicolas, Guy [oct. 1984], « Métamorphose de l’Islam nigérian, deuxième partie », Le Mois en Afrique, nos 225-6, p. 141.
-
-
-
-
-
 Chapitre IX
-
 
 Contes et légendes de la pauvreté
 
-
-
-
-
 Niger, Koutoukalé, mi-2015
-
 
 La prison de haute sécurité de Koutoukalé se situe à une cinquantaine de kilomètres au nord-ouest de la capitale Niamey. À un moment, il faut quitter le bitume et s’engager à gauche sur une piste poussiéreuse. De plus en plus sèche, la savane annonce déjà la proximité du désert. En haut d’une butte émerge enfin le bloc de béton carré de Koutoukalé, posé au milieu de nulle part. On dirait un peu le bagne d’où les Dalton ne cessent de s’évader dans les bandes dessinées de Lucky Luke. Ici, les cactus sont absents du paysage. Mais il y a des épineux et, à l’intérieur du pénitencier, un papier écrit à la main et affiché dans le bureau du régisseur répertorie le nombre d’occupants… et d’évasions.
 
@@ -1674,18 +751,9 @@ Après avoir discuté avec le « Mourabitoune », je suis plus intéressé par l
 
 Avec l’état d’urgence, Kyari Mamadou a perdu son travail. Il n’avait plus rien à réparer car les motos étaient désormais interdites dans la région de Mainé Soroa et Diffa, mesure que les autorités du Mali allaient également adopter dans le Macina. En revanche, les deux-roues pouvaient toujours circuler au Nigeria, en l’occurrence dans des zones tenues par Boko Haram. Un ami proposa donc à Kyari Mamadou d’aller faire le mécano à Damasek, juste de l’autre côté de la frontière. « Il y a plein de travail pour toi là-bas », lui dit-il. Et c’est ainsi que Kyari Mamadou se retrouva à réparer les armes de destruction massive de Boko Haram : des petites motos chinoises.
 
-
-
-
-
 Le mécano des campagnes aurait-il rejoint les rangs des insurgés sans les mesures d’exception de l’état d’urgence proclamé au Niger ? C’est très peu probable. Que ce soit dans le Macina malien, dans la région du Liptako-Gourma ou autour du lac Tchad, les états d’urgence et les sanctions économiques des coalitions antiterroristes ont en fait exacerbé le chômage et précipité des jeunes dans les bras des djihadistes. En fermant les frontières sous prétexte d’assécher les flux de contrebande susceptibles de financer les insurgés, la force du G5 Sahel a ainsi pris le risque de priver d’emploi les populations qui vivaient de petits trafics sur des biens de première nécessité. De même autour du lac Tchad, la coalition montée contre Boko Haram a interdit l’agriculture et la pêche, contribuant à prolonger la crise humanitaire. Assimilées à une punition collective contre certains groupes de population, notamment les éleveurs et les pêcheurs, de telles mesures ont surtout pénalisé des activités considérées comme légitimes, à défaut d’être toujours légales lorsque leur produit était écoulé sous forme de contrebande.
 
-
-
-
-
 Une vision malthusienne du Sahel
-
 
 D’une manière générale, les dispositifs militaires destinés à priver les insurgés de leur accès aux ressources locales tendent à affecter la capacité de résilience des civils et à accélérer leur paupérisation. Ils vont donc à l’encontre des objectifs des développementalistes et des stratèges selon qui la pauvreté serait le principal terreau du terrorisme au Sahel. De plus, ils démentent l’idée selon laquelle les djihadistes vivraient des subventions d’al-Qaïda ou de Daech, un soutien qui, a priori, devrait les dispenser d’avoir besoin de racketter et piller la population pour continuer à combattre. Autre contradiction, l’accent mis sur l’importance des ressources locales revient à désavouer le rôle déterminant que les opérateurs de la lutte antiterroriste veulent prêter à la radicalisation de l’islam. Les sanctions économiques prises contre les insurgés au Mali ou autour du lac Tchad correspondent davantage au constat selon lequel les djihadistes se seraient progressivement criminalisés et poursuivraient désormais des buts lucratifs, plus que religieux.
 
@@ -1709,14 +777,9 @@ En pratique, le discours pro-pauvres des guérillas djihadistes d’aujourd’hu
 
 Ainsi, les organisations qualifiées de terroristes ont généralement pris soin de ménager les pauvres. Pour les paysans, notamment, le paiement de la zakat avait le mérite d’être proportionnel au revenu estimé des récoltes et du cheptel. Au final, il revenait moins cher que de céder au racket des « corps habillés » des services de sécurité maliens dans le delta intérieur du fleuve du Niger. De même aux abords du lac Tchad, les éleveurs peuls, kanouri et boudouma ont trouvé plus avantageux de passer dans les zones tenues par Boko Haram plutôt que par les armées nigériane ou camerounaise. La différence est aussi que les insurgés délivraient des reçus aux nomades et aux voyageurs qui s’acquittaient de la zakat. Ce n’était évidemment pas le cas des forces de sécurité qui cherchaient à masquer leurs taxations illégales de la population11.
 
-
-
-
-
 Pauvreté et terrorisme :
 
 un lien qui n’est pas systématique
-
 
 Pour autant, il serait réducteur de faire de la misère matérielle et morale des populations sahéliennes le déterminant majeur de la poussée des mouvements djihadistes. L’idée selon laquelle la pauvreté mènerait forcément à la violence relève en fait de stéréotypes fort anciens à propos des « classes dangereuses ». Régulièrement décriés comme des apprentis terroristes parce qu’ils vivent de mendicité, les étudiants coraniques, par exemple, suivent généralement les enseignements de marabouts traditionalistes qui prônent l’obéissance et qui vont à l’encontre des doctrines légitimant le droit à la révolte. Au quotidien, ils perçoivent plutôt leur indigence comme un test d’endurance et de patience, une forme volontaire d’ascétisme et de piété religieuse12. Sur le plan strictement économique, leur sort n’est d’ailleurs pas pire que celui des autres paysans qui ne reçoivent aucune instruction islamique.
 
@@ -1728,12 +791,7 @@ Les enquêtes menées auprès d’anciens combattants confirment qu’une lectur
 
 Certes, la même étude révélait que 50 % des Chebab n’avaient pas d’emploi au moment de leur recrutement. Quant à ceux qui avaient auparavant un travail, ils exerçaient surtout des métiers peu qualifiés, ou bien avaient monté leur propre commerce. Il n’en demeure pas moins que la pauvreté ne suffit sûrement pas, à elle seule, à déclencher des violences. Sinon, il suffirait de repérer les poches de pauvreté pour savoir où va éclater le prochain conflit. Qu’elles soient qualifiées de djihadistes ou non, les insurrections qui déchirent à présent le Sahel résultent bien plutôt d’un cocktail explosif d’injustice sociale et de mauvaise gouvernance, conjugué au sentiment de paupérisation, de déclassement et d’exclusion de certaines catégories de populations.
 
-
-
-
-
 Quand l’aide passe au service des puissants et de la force
-
 
 Aussi convient-il de ne pas trop spéculer sur la capacité de l’aide internationale à déclencher une dynamique d’enrichissement qui démobiliserait les combattants et désamorcerait les conflits susceptibles de déboucher sur des rébellions menées sous la bannière du Coran. En effet, les périodes de croissance économique peuvent aussi être sources d’inégalités et de tensions sociales. De plus, les expériences menées de pair avec une intervention militaire n’ont guère été concluantes à une échelle globale. Certains chercheurs affirment par exemple que les programmes sociaux financés par l’armée américaine en Irak après l’invasion de 2003 auraient permis d’obtenir le soutien de la population et de diminuer l’intensité et la fréquence des attaques des insurgés21. Mais ces résultats sont très contestés. Ainsi, la mise en place d’un « Plan de sécurisation intégré » et la distribution de secours par des ONG humanitaires dans la région centrale du Mali n’ont pas mis un terme à l’insurrection de la katiba du Macina, pas plus qu’elles ne semblent avoir apporté aux yeux des civils un surcroît de légitimité en faveur du gouvernement au pouvoir à Bamako22.
 
@@ -1755,132 +813,13 @@ En effet, il y a très peu de véritables études de terrain sur l’impact de l
 
 Les analyses d’impact de l’aide peuvent alors se perdre à leur aise dans un jargon technocratique et inintelligible pour le commun des mortels, français comme malien. Leur avalanche de chiffres confine parfois au ridicule : en deux ans d’existence, l’Alliance Sahel a ainsi passé une bonne partie de son temps à essayer d’harmoniser ses efforts d’évaluation. Le bilan bureaucratique était, selon elle, satisfaisant puisque le nombre d’indicateurs utilisés en commun par la Banque mondiale, l’Union européenne et l’AFD avait été réduit de 90 à 32. Mais évidemment, tout cela ne nous disait rien de l’impact des réalisations entreprises sur le terrain. En effet, l’objectif n’est sûrement pas de s’intéresser à la façon dont l’aide internationale est possiblement détournée pour alimenter les conflits.
 
-
-
-
-
-1. Harmon, Stephen [2014], Terror and Insurgency in the Sahara-Sahel Region: Corruption, Contraband, Jihad and the Mali War of 2012-2013, London, Ashgate, 304 p.
-
-
-
-2. Benjaminsen, Tor & Boubacar Ba [2019], « Why do pastoralists in Mali join jihadist groups? A political ecological explanation », The Journal of Peasant Studies, vol. 46, no 1, pp. 1-20.
-
-
-
-3. United Nations, World Bank (ed.), Pathways for Peace : Inclusive Approaches to Preventing Violent Conflict, Washington, DC, World Bank, 2018, p. 67.
-
-
-
-4. Magrin, Géraud [2016], « The disappearance of Lake Chad: history of a myth », Journal of Political Ecology, vol. 23, p. 209.
-
-
-
-5. Clarence-Smith, William Gervase [2006], Islam and the abolition of slavery, London, Hurst, p. 50.
-
-
-
-6. Benjaminsen, Tor & Boubacar Ba [2019], « Why do pastoralists in Mali join jihadist groups? A political ecological explanation », The Journal of Peasant Studies, vol. 46, no 1, pp. 1-20 ; Sangare, Boukary [2016], Le centre du Mali : épicentre du djihadisme ?, Bruxelles, Groupe de Recherche et d’Information sur la Paix et la Sécurité, 12 p. ; Geel, Florent, Antonin Rabecq, Drissa Traoré & Rémi Carayol [2018], Dans le centre du Mali, les populations prises au piège du terrorisme et du contreterrorisme : Rapport d’enquête, Paris, FIDH, p. 25 & 28.
-
-
-
-7. ICG [2017], Nord du Burkina Faso : ce que cache le jihad, Brussels, International Crisis Group, 21 p.
-
-
-
-8. Anwar, Auwalu [juin 2015], « The Origin and Development of Gardanci Tradition in Northern Nigeria, up to 1975 », Arewa House Journal, vol. 3, no 3, p. 27.
-
-
-
-9. Bukhârî, Abu Abdullah [2003], Le Sahih : Les hadith authentiques établis par le grand traditionniste, l’imam Abu Abdullah Muhammad ben Ismail Al-Bukhâry (m. 256. h), traduit par Harkat Ahmed, Beyrouth, Al-Makhthba AlA’sryyah, vol. 2, p. 274.
-
-
-
-10. Rashid, Sheikh Abu al-Hassan [avr. 2017], Shari'i pieces of advice and directives to the mujahideen of Nigeria, with an introduction by the Mujahid Sheikh Abu al-Nu'aman Qutaiba al-Shinqiti, n.d., al-Andalus Foundation for Media Production, Trans. Aymenn Jawad Al-Tamimi.
-
-
-
-11. La remarque vaut pour les pêcheurs Boudouma du lac Tchad. Les insurgés ont la réputation d’acheter le poisson à prix coûtant alors que les militaires le réquisitionnent sans aucune contrepartie.
-
-
-
-12. Hoechner, Hannah [2018], Quranic Schools in Northern Nigeria: Everyday Experiences of Youth, Faith, and Poverty, Cambridge: Cambridge University Press, 267 p.
-
-
-
-13. Gurr, Ted Robert [1970], Why Men Rebel, Princeton, Princeton University Press, 421 p.
-
-
-
-14. Schwartz, Hillel [1987], « Millenarianism: An Overview », in Eliade, Mircea (dir.), Encyclopedia of Religion, New York, Macmillan, vol. 9, p. 528.
-
-
-
-15. INSM [2013], Consommation, pauvreté, bien-être des ménages, avril 2011 – mars 2012, Bamako, Institut national de la statistique du Mali, p. 31.
-
-
-
-16. INSD [2015], Enquête multisectorielle continue 2014 : Profil de pauvreté et d’inégalités, Ouagadougou, Institut national de la statistique et de la démographie, p. 31.
-
-
-
-17. NBS [2012], Nigeria Poverty Profile 2010, Abuja, National Bureau of Statistics, p. 23.
-
-
-
-18. Botha, Anneli & Abdile, Mahdi [2016], Getting behind the profiles of Boko Haram members and factors contributing to radicalisation versus working towards peace, Vienna, King Abdullah Bin Abdulaziz Centre for Interreligious and Intercultural Dialogue (KAICIID), 7 p.
-
-
-
-19. Nagarajan, Chitra [2018], « We Were Changing the World. » Radicalization and Empowerment among Young People Associated with Armed Opposition Groups in Northeast Nigeria, San Francisco, Equal Access International, p. 28.
-
-
-
-20. Botha, Anneli [2017], Terrorism in Kenya and Uganda : Radicalization from a Political Socialization Perspective, London, Lexington Books, p. 168.
-
-
-
-21. Berman, Eli, Jacob Shapiro & Joseph Felter [August 2011], « Can Hearts and Minds Be Bought? The Economics of Counterinsurgency in Iraq », Journal of Political Economy, vol. 119, no 4, pp. 766-819.
-
-
-
-22. ICG [2019], Speaking with the « Bad Guys » : Toward Dialogue with Central Mali’s Jihadists, Brussels, International Crisis Group, p. 9.
-
-
-
-23. Pérouse de Montclos, Marc-Antoine [2001], L’Aide humanitaire, aide à la guerre ?, Bruxelles, Complexe, 208 p.
-
-
-
-24. Chandy, Laurence, Brina Seidel & Christine Zhang [2016], Aid effectiveness in fragile states. How bad is it and how can it improve?, Washington, Brookings Institution, 42 p.
-
-
-
-25. https://www.publishwhatyoufund.org/the-index/2018
-
-
-
-26. Berville, Hervé [2018], Rapport sur la modernisation de la politique partenariale de développement et de solidarité internationale, Paris, Assemblée Nationale, p. 46
-
-
-
-
-
 L’autoradicalisation républicaine
 
-
-
-
-
 Quelque part en France, début 2018
-
 
 Nous sommes réunis pour échanger sur la situation au Sahel. Il y a parmi nous des décideurs politiques, des diplomates, des développementalistes, des militaires et des chercheurs spécialistes de la région. À un moment, le débat s’arrête sur l’épineuse question de la « radicalisation de l’islam ». Je souligne combien il peut être dangereux de surdéterminer l’importance du facteur religieux pour comprendre les conflits du Sahel. J’ajoute que les professionnels de l’antiterrorisme ne sont pas vraiment bien placés pour s’improviser théologiens, « dé-radicaliser » les esprits et expliquer la « bonne » version de l’islam aux musulmans africains. De telles prétentions sont d’autant plus malvenues que la France est perçue au Sahel, et plus généralement dans le monde, comme une république laïque et férocement attachée au principe de séparation de l’État et de la religion.
 
 « Mais si, s’écrie un colonel, c’est bien à la France qu’il revient d’aider les Africains à comprendre les sourates du Coran. »
-
-
-
-
 
 Allons bon ! Nous voilà donc embarqués dans une guerre de civilisation. La France républicaine entend refaçonner l’islam pour mieux le domestiquer. Les enseignements de la période coloniale ont visiblement été oubliés. Occupés à défricher et déchiffrer les territoires de l’Afrique de l’Ouest sahélienne, les « administrateurs ethnologues » d’autrefois étaient pourtant très prudents en la matière. Au tout début du xxe siècle, Alain Quellien, à qui l’on prête l’invention du néologisme « islamophobie », invitait ainsi à « tolérer l’islam et le traiter avec impartialité plutôt que de le combattre et le surexciter par des persécutions inutiles1 ».
 
@@ -1888,12 +827,7 @@ Allons bon ! Nous voilà donc embarqués dans une guerre de civilisation. La Fra
 
 Dès qu’il s’agit de terrorisme djihadiste, on assiste en fait à une sorte de raidissement, voire de « radicalisation » de la classe politique française. Le refus de prendre en compte la complexité du problème n’en est que plus évident quand on évoque le cas des pays francophones du Sahel, région du monde qui évoque aussitôt le désert, l’immigration illégale, une explosion démographique incontrôlable, un effroyable sous-développement et, d’une manière plus générale, une menace alimentée par des peurs fort anciennes à propos de la barbarie du musulman et de la sauvagerie du Noir. Les élus de la nation, il est vrai, ne sont pas seuls en cause. Nourrie par les analyses alarmistes de certains chercheurs avides de notoriété et adeptes de la « théorie des dominos », l’industrie de la consultance et de la sécurité privée n’est pas la dernière à surenchérir quand il s’agit de souligner les risques d’une dégradation de la situation et d’une déflagration générale de « l’arc de crise » sahélien. De ces représentations découlent les nombreuses erreurs de diagnostic qui ont conduit à surdimensionner la réponse au terrorisme en insistant indûment sur l’importance de la religion, de la pauvreté et de la dimension globale et connectée des groupes insurrectionnels.
 
-
-
-
-
 Des incohérences d’un récit anxiogène
-
 
 Lorsqu’ils parlent du djihadisme au Sahel, les décideurs politiques en France se focalisent d’abord sur les méfaits du salafisme et d’extrémismes en provenance du monde arabe. Ils font ainsi le jeu d’ennemis dont ils exagèrent la capacité de nuisance et de projection à l’international. La représentation d’un grand complot djihadiste qui puiserait ses racines profondes dans le monde arabe et qui aurait embrasé toute la région donne en effet aux insurgés une audience internationale. Les terroristes, on le sait, ont pour but de faire peur. La guerre de communication leur est donc essentielle et ils ont tout intérêt à exagérer leur capacité à frapper n’importe où dans le monde entier.
 
@@ -1917,12 +851,7 @@ Loin du narratif sur une menace d’ampleur globale, le pragmatisme des militair
 
 Au vu de la politique isolationniste du président Donald Trump à Washington et de l’enlisement des engagements de ses prédécesseurs en Afghanistan et en Irak, il semble aujourd’hui peu probable que les Américains s’investissent davantage en direction de la Libye ou, plus au sud, dans la lutte contre Boko Haram. Sur le terrain, les difficultés tiennent également au souverainisme sourcilleux des Nigérians et à la dégradation de la situation au Cameroun6. La contradiction n’en est que plus criante : l’engagement militaire des puissances occidentales au Sahel est moindre qu’au Moyen-Orient et sans commune mesure avec le récit que les gouvernements français font couramment d’une menace djihadiste qui est censée déstabiliser toute l’Afrique et déborder vers l’Europe en y précipitant une poignée d’extrémistes noyés au milieu d’un exode de migrants illégaux.
 
-
-
-
-
 De l’aveuglement à l’entêtement
-
 
 La question reste ouverte. L’entêtement à maintenir des troupes au Sahel et la dramatisation de l’ampleur des troubles témoigneraient-ils seulement d’une ignorance des réalités locales ? D’une forme d’aveuglement idéologique qui, dans le cas de la France républicaine et laïque, reviendrait par contrecoup à surestimer l’influence du modèle al-qaïdiste ? Ou bien d’un refus stratégique d’admettre les défaillances des régimes alliés aux Occidentaux et leur profonde responsabilité politique dans la perpétuation de la crise ? Ou encore d’un besoin de démonstration de puissance et d’un sentiment de supériorité pour affirmer la capacité des pays développés à résoudre les problèmes des Africains et à maintenir la paix dans le monde ?
 
@@ -1940,14 +869,9 @@ Ainsi, la ventilation géographique des intérêts financiers, industriels et st
 
 Ce n’est pas impossible. Mais la décision de lancer l’opération Serval au Mali n’aurait pas pu être prise sans un minimum de concertation avec des militaires bien décidés, eux, à profiter des opportunités qu’offrait la lutte contre le terrorisme pour préserver leurs bases permanentes en Afrique subsaharienne. Pour eux, l’enjeu était d’autant plus important qu’au même moment les rédacteurs du Livre blanc de la Défense envisageaient de réduire drastiquement leur budget. L’opération Serval allait en outre permettre aux anciens d’Afrique d’exercer leur métier sur le terrain sans être dessaisi de leurs prérogatives au profit de la technologie ou de la guerre de dissuasion nucléaire. Progressivement, les militaires ont ainsi pris le pas sur des diplomates qui, bien souvent, étaient plus intéressés à poursuivre leur carrière en Amérique du Nord, en Europe ou en Asie.
 
-
-
-
-
 Le beau rôle,
 
 mais pour combien de temps ?
-
 
 À dire vrai, François Hollande n’aurait pas non plus obtenu le soutien de l’opinion publique pour intervenir au Mali s’il n’avait pas su mobiliser les idéaux républicains qui assignaient à la France postcoloniale une mission civilisatrice, voire messianique. Le Sahel et les mirages du Sahara offraient un beau décor de théâtre face à la « barbarie djihadiste », quitte à prendre des libertés avec la vérité. Au moment de l’invasion américaine de l’Irak en 2003, déjà, la rumeur avait circulé, à tort, que Saddam Hussein se serait approvisionné en uranium au Niger pour fabriquer des armes de destruction massive. Dix ans plus tard au Mali, le président François Hollande prétendait quant à lui que la France était intervenue pour mettre un terme à de prétendus massacres de femmes et d’enfants que les djihadistes n’avaient en réalité jamais commis11. Personne ne le contesta, pas plus que ne fut remis en cause le scénario selon lequel les insurgés se seraient emparés de Bamako si l’armée française n’avait pas été là pour bloquer leur avancée.
 
@@ -1969,12 +893,7 @@ Bien entendu, ces échecs à répétition ont contribué à renforcer la réputa
 
 Les déclarations hâtives et trop souvent irresponsables des dirigeants africains, en l’occurrence, ont aussi concerné les attentats des groupes djihadistes, et pas seulement le bilan des attaques menées contre les rebelles. Lors de l’assaut des Chebab somaliens contre le centre commercial de Westgate à Nairobi en 2013, les autorités kenyanes ont ainsi prétendu qu’il y avait une douzaine d’assaillants, que trois d’entre eux étaient américains, qu’ils avaient pris des otages et qu’ils résistèrent pendant trois jours au siège des forces de sécurité. En réalité, rien de tout cela n’était vrai. Il n’y avait que quatre terroristes et ceux-ci furent tués au bout de quelques heures. Les deux jours suivants ont plutôt été mis à profit par les forces de sécurité kenyanes pour organiser le pillage en règle des boutiques de Westgate. Comme de bien entendu, personne ne fut sanctionné et il n’y eut aucune commission d’enquête. Le ministre de l’Intérieur garda son poste et le chef d’état-major fut félicité pour l’action héroïque de ses hommes, avant de partir tranquillement à la retraite à la fin de sa carrière, deux ans plus tard14. Depuis lors, les mensonges officiels des autorités kenyanes n’ont jamais cessé, à tel point que certains journalistes britanniques ont trouvé que, finalement, la communication des Chebab était plus honnête15 !
 
-
-
-
-
 Des mérites de la coopération militaire : quelques illusions et beaucoup de déceptions
-
 
 Dans un tel contexte, il est assez étonnant d’entendre des officiers français ou américains continuer de prétendre que la solution serait de renforcer les coopérations militaires. Les armées africaines seraient faibles et corrompues ? Elles auraient perdu « la bataille des cœurs et des esprits » contre les djihadistes ? Elles alimenteraient les conflits en tuant des civils ? Qu’à cela ne tienne, nous disent-ils en substance. Il faut renforcer leurs capacités, leur donner plus d’argent, les former convenablement et mieux les équiper. Le discours est connu : les Africains sont incapables de se prendre en main. Forts de leur supériorité technologique, les Occidentaux vont donc leur apprendre à se battre, quand bien même la solution serait d’abord politique en vue de mettre un terme à l’impunité dont jouissent les troupes qui commettent des atrocités sur le terrain.
 
@@ -1986,12 +905,7 @@ La situation au Sahel aurait-elle été pire sans les coopérations militaires d
 
 L’appui a aussi été politique, jusque dans l’Hexagone. En janvier 2017, un arrêté des ministres de l’Économie et de l’Intérieur gelait ainsi les comptes bancaires de deux opposants tchadiens exilés en France, au prétexte qu’ils auraient été susceptibles de financer des actes de terrorisme. Le djihadisme avait décidément bon dos. En réalité, les personnes visées n’appartenaient pas à des groupes figurant sur les listes des organisations terroristes établies par l’Union européenne ou le Conseil de sécurité des Nations unies. Ancien militant du Parti socialiste, le premier, Mahamat Mahadi Ali, dirigeait un groupe rebelle, le Front pour l’alternance et la concorde, qui n’avait pas de revendications religieuses et dont les hommes combattaient depuis des campements dans le sud de la Libye17. Le second, Mahamat Nouri, était quant à lui un ancien ministre d’Hissène Habré et d’Idriss Déby qui, en 2006, avait pris la tête d’une rébellion armée, l’Union des forces pour la démocratie et le développement, et qui avait failli faire tomber le régime d’Idriss Deby en 2008, avant d’aller se réfugier en France en 2010. En juin 2019, il devait finalement être arrêté par la police française, accusé fort opportunément de crimes contre l’humanité au Tchad et au Soudan.
 
-
-
-
-
 La réputation dégradée de la France au Sahel
-
 
 Au nom de la lutte contre le terrorisme et des impératifs de stabilisation de la région, la République française s’est beaucoup compromise avec des régimes corrompus et autoritaires. Comment alors s’étonner que les Sahéliens la perçoivent comme une puissance néocoloniale responsable de tous leurs malheurs ? Au Mali, notamment, les rumeurs vont bon train. Il est loin le temps où, en 2013, les habitants de Tombouctou en liesse acclamaient le président François Hollande avec des drapeaux bleu blanc rouge. Depuis lors, les graffitis antifrançais se sont multipliés, ainsi que les manifestations devant l’ambassade de France à Bamako.
 
@@ -2003,125 +917,27 @@ Les Maliens, à dire vrai, ne sont pas les seuls à douter de la sincérité des
 
 Bien entendu, de telles suspicions compliquent singulièrement les efforts de coordination de la lutte antiterroriste. Qu’elles soient fondées ou non, les mauvaises intentions prêtées à l’ancienne puissance coloniale sont susceptibles de compromettre les alliances nouées contre un ennemi commun. Elles ont également un impact direct sur la capacité à gagner la bataille des cœurs et des esprits quand les djihadistes se présentent comme des résistants face à l’occupant étranger. Le problème est aussi que les alliés de la lutte antiterroriste ne partagent pas les mêmes préoccupations politiques sur le plan de leur réputation. Du point de vue de l’Élysée, l’image de l’ancienne puissance coloniale auprès des populations sahéliennes compte beaucoup moins que la sensibilité de l’électorat français quant à l’enlisement d’une intervention militaire « exotique » et sans issue.
 
-
-
-
-
-1. Quellien, Alain [1910], La Politique musulmane dans l’Afrique occidentale française, Paris, Émile Larose, p. vii.
-
-
-
-2. Moghadam, Assaf [2017], Nexus of global Jihad : understanding cooperation among terrorist actors, New York, Columbia University Press, p. 11.
-
-
-
-3. Mahmood, Omar & Ndubuisi Christian Ani [2018], Factional Dynamics within Boko Haram, Johannesburg, ISS, p. 15.
-
-
-
-4. Amadou Koufa aurait en fait rallié la mouvance d’Iyad Ag Ghaly dès 2012. Des photos le montrent défilant à ses côtés à Bamako lors de manifestations contre une tentative de réforme laïque du Code de la famille en 2009.
-
-
-
-5. Le ministère des Affaires étrangères décrit lui-même le Sahel comme une région « traversant le continent d’Ouest en Est, de Dakar à Djibouti ». Accès : https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/defense-et-securite/terrorisme-l-action-internationale-de-la-france/article/la-menace-terroriste-au-sahel
-
-
-
-6. Fin 2018, le lobby des Camerounais anglophones aux États-Unis a par exemple obtenu du Congrès qu’il bloque à destination de Yaoundé les exportations d’armes susceptibles de servir à massacrer des civils sous prétexte de réprimer les sécessionnistes dans le sud-ouest du pays.
-
-
-
-7. Churchill, Winston [1899], The River War. An historical account of the reconquest of the Soudan, London, Longmans & Co, p. 164.
-
-
-
-8. Eizenga, Daniel [2019], Long term trends across security and development in the Sahel, Paris, OECD, West African Papers 25, p. 21.
-
-
-
-9. Le coût de l’intervention de la France au Mali est généralement considéré comme raisonnable comparé aux sommes astronomiques dépensées par l’armée américaine en Afghanistan et en Irak. Les estimations chiffrées du Sénat, qui totalisent 2,4 milliards d’euros pour les opérations Serval puis Barkhane entre 2014 et 2017, ne prennent cependant pas en compte l’entretien au sud du Sahara de bases militaires permanentes qui existent depuis la période des indépendances et qui ont permis de réduire la facture du déploiement de troupes outre-mer. Cf. Thierry Hommel & Pérouse de Montclos, Marc-Antoine, « La France militaire en Afrique : un mauvais investissement économique », The Conversation, 24 septembre 2019.
-
-
-
-10. https://www.coface.fr/Actualites-Publications/Publications/Course-aux-parts-de-marche-en-Afrique-l-echappee-francaise-reprise-par-le-peloton-europeen
-
-
-
-11. Les chefs d’accusation de la Cour pénale internationale contre les islamistes qui contrôlaient le nord du Mali à l’époque portent sur des viols et des mariages forcés. Un jeune couple non marié aurait aussi été lapidé à mort à Aguelhok le 29 juillet 2012. Mais le seul massacre recensé pendant cette période, également à Aguelhok, a visé des soldats maliens désarmés, et non des femmes ou des enfants. Aucune commission d’enquête judiciaire n’a jamais réussi à déterminer s’il avait été commis par les djihadistes ou les indépendantistes touaregs. Quant aux récits de lapidations de couples non mariés, certains relevaient de la rumeur et ont fini par être démentis, par exemple à Aguelhok le 29 mai 2017.
-
 http://www.bfmtv.com/international/hollande-mali-nous-avons-gagne-cette-guerre-606316.html
 
 http://www.rfi.fr/afrique/20170529-mali-lapidation-dementi-couple-aguelhoc-tessalit
 
-
-
-12. Amnesty International [2017], Cameroon's Secret Torture Chambers: Human Rights Violations And War Crimes In The Fight Against Boko Haram, London, Amnesty International, 70 p.
-
-
-
-13. Berville, Hervé [2018], Rapport sur la modernisation de la politique partenariale de développement et de solidarité internationale, Paris, Assemblée Nationale, p. 52.
-
-
-
-14. McConnell, Tristan [20 sept. 2015], « “Close Your Eyes and Pretend to Be Dead” : What really happened two years ago in the bloody attack on Nairobi’s Westgate Mall », Foreign Policy.
-
-
-
-15. Williams, Paul [2018], Fighting for Peace in Somalia: A History and Analysis of the African Union Mission (AMISOM), 2007-2017, Oxford, Oxford University Press, p. 298.
-
-
-
-16. Williams, Paul [2018], Fighting for Peace in Somalia: A History and Analysis of the African Union Mission (AMISOM), 2007-2017, Oxford, Oxford University Press, pp. 71, 87-8.
-
-
-
-17. https://www.liberation.fr/planete/2017/01/27/la-france-gele-discretement-les-comptes-de-trois-opposants-africains_1544422
-
-
-
-18. Voir les sondages cités in Pérouse de Montclos, Marc-Antoine, « La politique de la France au Sahel : une vision militaire », Hérodote, no 172, mars 2019, pp. 137-52.
-
-
-
-
-
 LES EFFETS INDÉSIRABLES
-
-
-
-
 
 Chapitre X
 
-
 Des conséquences d’un ensablement durable
-
-
-
-
 
 Tchad, camp de réfugiés de Dar es Salam, début 2019
 
-
 Aujourd’hui, « la plus grande menace pour les populations, c’est l’armée, car c’est elle qui nous tue ». Le propos en dit long sur la situation. Interviewé par un enquêteur de la Fédération internationale des Droits de l’Homme, ce réfugié vient en l’occurrence de Baga Kawa, un petit port de pêche qui, situé du côté nigérian du lac Tchad, a été attaqué par Boko Haram le 26 décembre 20181. À l’époque, les insurgés ont plutôt cherché à retenir la population, qui a fui les combats en s’inquiétant surtout des représailles à venir quand l’armée chercherait à réoccuper le terrain. En effet, les habitants risquaient alors d’être accusés d’avoir été épargnés par Boko Haram du fait de leurs prétendues complicités avec les djihadistes. De plus, la prédation des forces de sécurité nigérianes était si courante qu’elle avait fini par obliger les pêcheurs du lac Tchad à quitter la région.
 
-
-
-
-
 Niger, Niamey, mi-2014
-
 
 Je suis dans le bureau climatisé et bien protégé du représentant du HCR (Haut Commissariat des Nations unies pour les réfugiés) et nous parlons de la situation des populations qui ont dû fuir le conflit de Boko Haram dans la région de Diffa à la frontière du Nigeria. Il me donne une plaquette destinée à sensibiliser et alerter la communauté internationale sur le développement de la crise humanitaire entre les deux pays. Chaque page est illustrée d’une photo et d’un récit de vie. C’est assez étonnant. La moitié des réfugiés disent avoir fui les exactions de Boko Haram ; l’autre moitié, celles des forces de sécurité nigérianes.
 
 Je ne suis pas sûr que le service de communication du HCR soit vraiment conscient de la charge politique que recèle sa plaquette. Mais son bilan correspond bien à l’impression que j’avais retirée de ma précédente visite à Diffa quand, au gré des rencontres, j’avais interviewé des réfugiés qui avaient fui le Nigeria à cause de l’armée autant que de Boko Haram. D’une manière générale, le cas est assez typique des dilemmes auxquels sont confrontés les civils dans les guerres dites « asymétriques » entre des troupes régulières et des groupes insurrectionnels. À Mogadiscio, des habitants se plaignent ainsi d’être pris entre deux feux. « Tout le monde cherche à nous tuer2 », disent-ils en substance. À la fin, ils ne voient plus vraiment de différences entre les Chebab et les troupes de l’Union africaine, tous prétendant vouloir les protéger. Quant aux populations des régions de Mopti et du nord au Mali, elles doivent aussi louvoyer pour essayer de survivre dans une situation qui semble inextricable. Entre le marteau et l’enclume, elles sont en permanence suspectées par les uns et les autres de collaborer avec l’ennemi, qui djihadiste, qui militaire et français.
 
-
-
-
-
 Au Mali, une présence française qui a dispersé puis rassemblé les djihadistes
-
 
 De fait, le bilan de l’opération Barkhane n’est pas bon pour les civils et d’aucuns pensent qu’il confine à l’échec sur le plan militaire. En 2013, l’intervention française dans le nord du Mali a d’abord donné un coup de pied dans la fourmilière djihadiste. Initialement concentrés sur Tombouctou et Gao, les insurgés se sont dispersés dans les dunes du Sahara et sont devenus plus difficiles à localiser. Dans un second temps, cependant, la poursuite des opérations militaires de la France a rassemblé contre un ennemi commun des groupes autrefois rivaux. Unis dans l’adversité, ceux-ci se sont réconciliés et ont commencé à signer des communiqués ensemble. En mars 2017, un pas était franchi avec la création du Groupe pour la victoire de l’islam et des musulmans (Jamaat Nusrah al-Islam wal-Muslimin), qui a réuni AQMI, Ansar Dine, Al-Mourabitoune et la katiba d’Amadou Kouffa dans la région centrale du Mali, le Macina. Placée sous la direction d’Iyad Ag Ghali, un ancien rebelle touareg et fondateur d’Ansar Dine, cette plateforme a clairement vocation à dépasser les clivages communautaires et son directoire comprend aussi des leaders arabe et peul avec, respectivement, l’émir d’AQMI au Sahara, Djamel Okacha, et le prédicateur à l’origine du Front de libération du Macina, Amadou Koufa3.
 
@@ -2131,14 +947,9 @@ Autre effet pervers, l’intervention de l’armée française a relancé les tr
 
 Au Mali, l’actuel chef du Groupe pour la victoire de l’islam et des musulmans, Iyad Ag Ghaly, n’était pas non plus réputé s’être impliqué directement dans le commerce de stupéfiants avant l’intervention militaire de la France en 2013. Certes, l’émir d’AQMI, Mokhtar Belmokhtar, était régulièrement présenté par les services algériens comme un vulgaire trafiquant de cigarettes et de drogues dures, ironiquement surnommé « Monsieur Marlboro ». Mais un portrait aussi peu flatteur visait d’abord à salir sa réputation et il n’existe pas de témoignages indépendants et fiables pour vérifier les assertions à ce propos. Après 2013, en revanche, c’est la communauté internationale qui a observé un rapprochement entre les djihadistes et les narcotrafiquants pour compenser les pertes de revenus autrefois tirés du prélèvement de la dîme islamique, la zakat, ou du paiement des rançons destinées à obtenir la libération d’otages. Les groupes combattants ont aussi prélevé leurs commissions afin de priver leurs rivaux des dividendes du commerce de drogues. L’armée française, elle, a souvent préféré fermer les yeux sur les activités illicites de ses propres alliés sur le terrain5.
 
-
-
-
-
 La poursuite des opérations :
 
 des intérêts bien compris
-
 
 Outre ses effets pervers sur le renouvellement et la criminalisation des groupes djihadistes, l’intervention militaire de la France a également précipité une reconfiguration mortifère des forces antiterroristes. À tous les niveaux, les belligérants ont ainsi voulu profiter du débarquement de troupes étrangères pour régler leurs comptes et mettre la main sur l’aide internationale. Cela a commencé dès 2013 quand les autorités au pouvoir à Bamako ont cherché à s’appuyer sur les militaires de l’opération Serval pour remonter au nord « liquider » définitivement le problème des Touaregs. L’ambiance était à la revanche. Échaudée par le syndrome de l’opération Turquoise au Rwanda, l’armée française a donc dû interdire l’entrée de Kidal, fief des indépendantistes touaregs, à une soldatesque malienne toujours prompte à massacrer des civils, ce qui a évidemment suscité des tensions avec le gouvernement du président Ibrahim Boubacar Keïta. À une échelle très locale, les militaires des opérations Serval puis Barkhane n’ont cependant pas évité les petites vengeances individuelles. Comme au Nigeria ou au Cameroun avec les milices montées pour combattre Boko Haram, on a dénoncé son voisin pour se débarrasser d’un concurrent économique ou d’un rival en amour6. Les collaborateurs des Français y ont gagné en pouvoir tandis que de nombreuses personnes suspectées de complicité avec les insurgés disparaissaient entre les mains des autorités maliennes.
 
@@ -2148,12 +959,7 @@ La classe dirigeante n’est cependant pas seule en cause. Parmi les parties au 
 
 Dans le même ordre d’idées, on a assisté à une floraison d’initiatives visant à organiser des rencontres intercommunautaires… et à toucher le per diem versé par les ONG ou les agences publiques chargées de promouvoir la paix et le développement avec l’assistance financière de la communauté internationale. Théoriquement, l’objectif était de favoriser les rapprochements entre groupes rivaux, à l’instar des expériences déjà menées dans le nord du Mali au cours des années 1990. Mais en pratique, les discussions, interminables, n’ont résolu aucun des problèmes de fond concernant le mode de gouvernance des collectivités territoriales. De plus, aucune instance étatique n’a été dotée d’un mandat spécifique en vue de poursuivre en justice les responsables d’exactions, y compris dans les rangs des forces de sécurité. À la différence de l’Afrique du Sud au sortir de l’apartheid ou du Rwanda après le génocide en 1994, la Commission Vérité, Justice et Réconciliation du Mali a ainsi commencé en 2016 à recueillir des témoignages sans obliger les auteurs de violences à demander publiquement pardon à leurs victimes, se privant de tout effet de catharsis.
 
-
-
-
-
 Stigmatisation ethnique et fragmentation milicienne
-
 
 Au contraire, les dynamiques de la lutte contre le terrorisme ont ravivé les tensions communautaires sous une forme milicienne. Dans le centre du Mali, en particulier, l’armée a cherché à s’appuyer sur les groupements de chasseurs appelés Dozos. Débordée après un assaut djihadiste au cours duquel elle avait perdu une dizaine d’hommes dans le camp de Nampala en janvier 2015, elle a de plus en plus recouru à ces supplétifs réputés pour leurs talents de pisteurs et leur connaissance intime du monde de la brousse. Résultat, les insurgés se sont vengés en allant tuer le chef des Dozos en octobre 2016, un assassinat vraisemblablement commandité par les hommes d’Amadou Koufa. En retour, les groupes de chasseurs se sont constitués en milices et ont commencé à traquer les éleveurs peuls, tous considérés comme des terroristes en puissance. Les tensions ont finalement débouché sur des massacres intercommunautaires de grande ampleur, compliquant encore davantage la lutte contre le djihadisme.
 
@@ -2167,12 +973,7 @@ Paradoxalement, la question locale du « facteur tribal » est ainsi remontée �
 
 Aujourd’hui, l’évolution de la situation donne finalement le sentiment que la menace djihadiste s’est criminalisée et diluée dans une multitude de conflits que l’armée française est bien incapable de gérer, à moins de transformer ses soldats en cow-boys chargés d’encadrer la transhumance des troupeaux à travers le Sahel. L’émergence de milices montées sur une base ethnique, villageoise, confessionnelle ou corporatiste est particulièrement inquiétante à cet égard. En effet, ces prétendus auxiliaires de sécurité ont profité du chaos pour régler des comptes et ils ont commis de nombreux abus, tant au Mali qu’autour du lac Tchad. De plus, leur collaboration avec les forces des coalitions antiterroristes a pu entraîner des représailles contre les civils. Au Mali, c’est par exemple le cas des Daoussahak de Ménaka, dont le Mouvement pour le Salut de l’Azawad (MSA) de Moussa Ag Acharatoumane mène dans la région une guerre par procuration pour le compte de l’armée française. Enfin, les effectifs de toutes ces milices sont généralement bien supérieurs à ceux des groupes qualifiés de djihadistes. Leur démobilisation va donc poser d’immenses problèmes à des États qui n’ont pas les moyens de les intégrer dans des armées déjà défaillantes.
 
-
-
-
-
 Une triple impasse
-
 
 Dans un tel contexte, la poursuite de l’effort militaire de la France au Sahel ne se présente pas sous de bons augures. Pour minimiser les coûts politiques et économiques de son engagement, l’Élysée semble à présent privilégier une sorte de guerre par procuration contre le terrorisme, soit par le biais de supplétifs locaux, soit en recourant davantage à des drones armés. Le problème est qu’aucune de ces solutions n’est convaincante. La première, on l’a vu, tend à exacerber les phénomènes de tensions communautaires et de fragmentation milicienne qui compliquent la résolution des conflits. Quant à la seconde, elle repose pour beaucoup sur les illusions que procure une supériorité technologique face à des combattants dépenaillés.
 
@@ -2188,12 +989,7 @@ Enfin, le prétexte sécuritaire a conduit l’Élysée à resserrer ses liens a
 
 En effet, la mise en place d’états d’urgence et de régimes d’exception a justifié le musellement des opposants et entretenu les formes d’autoritarisme qui avaient nourri les révoltes djihadistes. Au nom de la sécurité et de la raison d’État, par exemple, on a entravé la liberté d’expression et on ne s’est pas gêné pour couper l’accès aux réseaux sociaux, parfois dans une région bien précise au Nigeria en 2013, parfois à l’échelle de tout un pays et pour des périodes plus ou moins longues en Mauritanie en 2019 ou au Tchad pendant plus d’un an à partir de 2018. La multiplication des rafles et des arrestations arbitraires a également contribué à entretenir le ressentiment des civils et des jeunes contre des pouvoirs oligopolistiques et trop souvent gérontocratiques.
 
-
-
-
-
 Le rôle des prisons
-
 
 La lutte contre le djihadisme a notamment légitimé et entériné le principe des détentions prolongées, à l’image d’une guerre sans fin. Au Sahel, aucun pays n’est allé jusqu’à imposer des lois martiales qui auraient complètement dessaisi les pouvoirs civils de leurs prérogatives. Mais en Mauritanie, des mesures antiterroristes votées dès 2005 et 2006 ont fait passer la durée des détentions préventives de trois à six ans. Au Nigeria en 2013 et au Cameroun en 2014, des lois ont par ailleurs autorisé l’armée à renouveler indéfiniment les détentions préventives sans avoir besoin d’en référer à la police et à la justice. Au Tchad, ce sont les gardes à vue au sein des commissariats de police qui sont passées de quarante-huit heures à quatre-vingt-dix jours en 2015, tandis qu’au Niger, un décret de 2016 étendait jusqu’à deux ans la période légale de détention préventive.
 
@@ -2221,97 +1017,17 @@ En 2012, le gouvernement marocain s’est ainsi ouvert à des hommes issus des f
 
 Jusqu’alors, l’imam « Abou Hafs » n’avait pu lire que des livres religieux. En prison, il a pu s’ouvrir aux sciences humaines et commencer à étudier la sociologie, la philosophie ou la psychologie. Il a également suivi des cours et obtenu une licence en droit international. À présent, il occupe l’espace médiatique en incarnant les positions d’un islam libéral, tolérant et moderne. Aussi radicale qu’étonnante, sa transformation relève d’abord d’une trajectoire personnelle et il n’est pas évident qu’elle puisse être répliquée ailleurs. Au Sahel, l’amélioration des conditions de détention des suspects de djihadisme n’en reste pas moins une nécessité absolue, qui va d’ailleurs de pair avec les autres défis judiciaire, policier et militaire du grand chantier de la construction de l’État.
 
-
-
-
-
-1. Je remercie Rémi Carayol de m’avoir fourni son rapport de mission, qui n’a pas été publié.
-
-
-
-2. Williams, Paul [2018], Fighting for Peace in Somalia: A History and Analysis of the African Union Mission (AMISOM), 2007-2017, Oxford, Oxford University Press, p. 267.
-
-
-
-3. Djamel Okacha aurait été tué par les militaires de l’opération Barkhane en février 2019.
-
-
-
-4. Déclaré mort à la suite d’une opération des militaires de Barkhane dans la forêt de Foulsaré, en avril 2017, Ibrahim Dicko aurait depuis lors été remplacé par son frère cadet, Jafar.
-
-
-
-5. ICG [2018], Narcotrafic, violence et politique au Nord du Mali, Brussels, International Crisis Group, pp. 14, 15 & 24.
-
-
-
-6. Chebli, Denia [27 juin 2017], « L’échec de l’intervention française au Mali », Libération.
-
 Accès : https://www.liberation.fr/auteur/17778-denia-chebli
-
-
-
-7. Geel, Florent, Antonin Rabecq, Drissa Traoré & Rémi Carayol [2018], Dans le centre du Mali, les populations prises au piège du terrorisme et du contreterrorisme : Rapport d’enquête, Paris, FIDH, pp. 50-2.
-
-
-
-8. Seignobos, Christian [2018], « Chronique d’un siège (2). Boko Haram dans ses sanctuaires des monts Mandara et du lac Tchad (2017) », Afrique contemporaine, no 265, p. 99-115.
-
-
-
-9. Pérouse de Montclos, Marc-Antoine [2019], « Nigeria : les méfaits de la democrazy », Politique étrangère, no 2, 2019, pp. 25-36.
-
-
-
-10. Benjaminsen, Tor & Boubacar Ba (2009), « Farmer-herder Conflicts, Pastoral Marginalisation and Corruption: a Case Study From the Inland Niger Delta of Mali », The Geographical Journal, vol. 175, no 1, pp. 71-81.
-
-
-
-11. Desportes, Vincent [oct. 2018], « Leçons d’aujourd’hui pour les guerres de demain », Le Casoar (revue trimestrielle de la Saint-Cyrienne), no 231, p. 19.
-
-
-
-12. Benjaminsen, Tor & Boubacar Ba [2019], « Why do pastoralists in Mali join jihadist groups? A political ecological explanation », The Journal of Peasant Studies, vol. 46, no 1, pp. 1-20.
-
-
-
-13. Charbonneau, Bruno [2017], « De Serval à Barkhane : les problèmes de la guerre contre le terrorisme au Sahel », Les Temps modernes, no 693-694, p. 339. Voir aussi Charbonneau, Bruno [2017], « Intervention in Mali: building peace between peacekeeping and counterterrorism », Journal of Contemporary African Studies, vol. 35, no 4, p. 427.
-
-
-
-14. http://www.nigeriawatch.org/index.php?html=7
-
-
-
-15. Ould Ahmed Salem, Zekeria [2013], Prêcher dans le désert : islam politique et changement social en Mauritanie, Paris, Karthala, p. 151.
-
-
-
-16. Amara, Sofia [2018], Baghdadi, calife de la terreur, Paris, Stock, 288 p.
-
-
-
-
 
 Conclusion
 
-
 Une prophétie autoréalisatrice ?
 
-
-
-
-
 France, Paris, début 2027
-
 
 Le président Emmanuel Macron arrive bientôt au terme de son deuxième mandat et fête sans trop d’illusions le quatorzième anniversaire du lancement de l’opération Serval. La France a désormais battu au Mali le record de longévité de l’Armée rouge en Afghanistan. Sa présence militaire n’a rien résolu et est de plus en plus décriée comme une force d’occupation, provoquant à l’occasion des affrontements qui risquent à tout moment de dégénérer avec les populations locales. En France, certains avaient imaginé à tort que, soucieux de réaliser des économies budgétaires, le président Emmanuel Macron allait vite renvoyer les soldats à la maison. Mais il n’en a rien fait, pas plus qu’il n’a réussi à passer le relais à une force du G5 Sahel qui est toujours restée à l’état de gestation.
 
 Contrairement au général Charles de Gaulle en Algérie, Emmanuel Macron n’a finalement jamais eu le courage d’annoncer un retrait de l’armée. Il faut dire que son prédécesseur à l’Élysée, François Hollande, n’avait pas non plus précisé les conditions à partir desquelles les troupes des opérations Serval puis Barkhane pourraient rentrer au pays. En attendant, les autorités ont donc continué d’affirmer que la situation aurait été pire si la France n’était pas intervenue.
-
-
-
-
 
 Point n’est besoin de politique-fiction, en l’occurrence. Le discours sur les mérites des interventions militaires de l’Occident avait déjà été entendu à propos de la nécessité de renverser les talibans en Afghanistan en 2001, la dictature de Saddam Hussein en Irak en 2003 ou le régime de Mouammar Kadhafi en Libye en 2011. En 2013, François Hollande et Jean-Yves Le Drian avaient ainsi brandi le spectre d’une prise de Bamako par les djihadistes en provenance du Nord. Mais à moins de réécrire l’histoire rétrospectivement, on ne sait pas très bien ce qu’il serait advenu du Mali si la France n’avait pas envoyé son armée sur place. Le récit grandiloquent et dramatique de l’Élysée à l’époque ne doit pas faire illusion à cet égard. En réalité, on ne peut pas dresser un bilan général des opérations Serval puis Barkhane en supposant que les djihadistes se seraient forcément emparés de Bamako si l’ancienne puissance coloniale ne leur avait pas barré la route de Mopti, à près de 700 kilomètres de là.
 
@@ -2336,14 +1052,4 @@ De plus, il y a lieu de revenir sur le scénario d’une internationalisation et
 Il n’est donc pas évident que la menace « terroriste » serait plus globalisée si les soldats français en venaient à quitter le Sahel. Autant la poursuite de l’opération Barkhane risquerait d’entraîner la commission d’attentats en Europe pour se venger des répressions subies en Afrique, autant un retrait militaire de la France confirmerait très vraisemblablement les racines fondamentalement locales de rébellions qui se sont essentiellement nourries de problèmes de mauvaise gouvernance.
 
 Au contraire, un désengagement de la communauté internationale pourrait en fin de compte se révéler salutaire en poussant les Africains à se prendre en main et en provoquant un sursaut national autour d’États en devenir. En dépit des atrocités commises, la menace djihadiste aurait alors eu pour mérite d’inciter les Sahéliens à repenser leur rapport à la religion et à la tradition, d’une part, et à poser les bases d’un contrat social moins autoritaire et moins dépendant des anciennes puissances coloniales, d’autre part.
-
-
-
-
-
-
-
-
-
-
 
